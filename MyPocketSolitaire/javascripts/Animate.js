@@ -34,13 +34,13 @@ define(["require", "exports", "Board"], function(require, exports, BoardImport) 
         BoardPieceView.prototype.Draw = function (context) {
             if (this.isVisible === true) {
                 if (this.isHighlighted === true) {
-                    context.fillStyle = "#FF00FA"; // EmptyMoveAvailable
+                    //context.fillStyle = "#FF00FA"; // EmptyMoveAvailable
                     //context.fillStyle = "#FFC38C"; // PreviousMoveFrom
                     //context.fillStyle = "#FF8CC3"; // PreviousMoveTo
-                    context.fillRect(this.point.x, this.point.y, this.size.x, this.size.y);
+                    //context.fillRect(this.point.x, this.point.y, this.size.x, this.size.y);
                 } else {
-                    context.fillStyle = "black";
-                    context.fillRect(this.point.x, this.point.y, this.size.x, this.size.y);
+                    // context.fillStyle = "black";
+                    // context.fillRect(this.point.x, this.point.y, this.size.x, this.size.y);
                 }
 
                 context.drawImage(this.image, this.point.x, this.point.y, this.size.x, this.size.y);
@@ -63,7 +63,9 @@ define(["require", "exports", "Board"], function(require, exports, BoardImport) 
             this.board = new BoardImport.Board();
         }
         BoardViewModel.prototype.Draw = function () {
-            this.context.fillRect(0, 0, this.canvas.width, this.canvas.height);
+            //this.context.fillRect(0, 0, this.canvas.width, this.canvas.height);
+			this.context.clearRect(0,0, this.canvas.width, this.canvas.height);
+			this.context.globalAlpha = 1.0;
             var localContext = this.context;
 
             this.boardPieces.forEach(function (boardPiece) {
@@ -221,6 +223,7 @@ define(["require", "exports", "Board"], function(require, exports, BoardImport) 
 
             boardViewModel.canvas = canvas;
             boardViewModel.context = canvas.getContext("2d");
+			boardViewModel.context.globalAlpha = 0.0;
 
             boardViewModel.circleSetImage.onload = loadingResources;
             boardViewModel.circleEmptyImage.onload = loadingResources;
