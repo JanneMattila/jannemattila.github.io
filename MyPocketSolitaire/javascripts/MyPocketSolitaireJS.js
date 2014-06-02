@@ -1,21 +1,5 @@
 ﻿"use strict";
-define(["require", "exports", "Board"], function(require, exports, BoardImport) {
-    function getURLParameters(paramName) {
-        var sURL = window.document.URL.toString();
-        if (sURL.indexOf("?") > 0) {
-            var arrParams = sURL.split("?");
-            var arrURLParams = arrParams[1].split("&");
-            for (var i = 0; i < arrURLParams.length; i++) {
-                var sParam = arrURLParams[i].split("=");
-                if (sParam[0] === paramName) {
-                    return sParam[1];
-                }
-            }
-        }
-
-        return "";
-    }
-
+define(["require", "exports", "./Board"], function(require, exports, BoardImport) {
     var Point = (function () {
         function Point() {
         }
@@ -36,11 +20,11 @@ define(["require", "exports", "Board"], function(require, exports, BoardImport) 
                 if (this.isHighlighted === true) {
                     //context.fillStyle = "#FF00FA"; // EmptyMoveAvailable
                     //context.fillStyle = "#FFC38C"; // PreviousMoveFrom
-                    //context.fillStyle = "#FF8CC3"; // PreviousMoveTo
-                    //context.fillRect(this.point.x, this.point.y, this.size.x, this.size.y);
+                    context.fillStyle = "#FF8CC3"; // PreviousMoveTo
+                    context.fillRect(this.point.x, this.point.y, this.size.x, this.size.y);
                 } else {
-                    // context.fillStyle = "black";
-                    // context.fillRect(this.point.x, this.point.y, this.size.x, this.size.y);
+                    context.fillStyle = "black";
+                    context.fillRect(this.point.x, this.point.y, this.size.x, this.size.y);
                 }
 
                 context.drawImage(this.image, this.point.x, this.point.y, this.size.x, this.size.y);
@@ -48,24 +32,31 @@ define(["require", "exports", "Board"], function(require, exports, BoardImport) 
         };
 
         BoardPieceView.prototype.Update = function (elapsedTime) {
+            //if (this.point.x > 0 || this.point.y > 0) {
+            //    this.point.x--;
+            //    this.point.y--;
+            //    return true;
+            //}
             return false;
         };
         return BoardPieceView;
     })();
 
     var BoardViewModel = (function () {
-        function BoardViewModel() {
+        function BoardViewModel(configuration) {
             this.boardPieces = new Array();
             this.boardMoveString = "";
+            this.loading = 0;
+            this.gameLoopInterval = 0;
             this.emptyImage = new Image();
             this.circleSetImage = new Image();
             this.circleEmptyImage = new Image();
             this.board = new BoardImport.Board();
+            this.configuration = configuration;
         }
         BoardViewModel.prototype.Draw = function () {
-            //this.context.fillRect(0, 0, this.canvas.width, this.canvas.height);
-			this.context.clearRect(0,0, this.canvas.width, this.canvas.height);
-			this.context.globalAlpha = 1.0;
+            this.context.fillStyle = "black";
+            this.context.fillRect(0, 0, this.canvas.width, this.canvas.height);
             var localContext = this.context;
 
             this.boardPieces.forEach(function (boardPiece) {
@@ -85,10 +76,18 @@ define(["require", "exports", "Board"], function(require, exports, BoardImport) 
             return updatesOccurred;
         };
 
-        BoardViewModel.prototype.LoadGame = function (game) {
+        BoardViewModel.prototype.InitializeGame = function (game, animateMoves) {
             if ((game.length % 2) === 0) {
                 // Game length seems to be correct
-                this.boardMoveString = game;
+                if (animateMoves === false) {
+                    while (game.length > 0) {
+                        this.board.MakeMoveFromString(game.substr(0, 2));
+                        game = game.substr(2);
+                    }
+                } else {
+                    this.boardMoveString = game;
+                }
+
                 return true;
             }
 
@@ -105,18 +104,18 @@ define(["require", "exports", "Board"], function(require, exports, BoardImport) 
                 var i = 0;
                 for (var y = 0; y < BoardImport.Board.BOARD_SIZE; y++) {
                     for (var x = 0; x < BoardImport.Board.BOARD_SIZE; x++) {
-                        var boardPiece = boardViewModel.board.Get(y, x);
+                        var boardPiece = this.board.Get(y, x);
 
                         if (boardPiece !== -1) {
                             var imageElement;
                             if (boardPiece === 1) {
-                                imageElement = boardViewModel.circleSetImage;
+                                imageElement = this.circleSetImage;
                             } else if (boardPiece === 0) {
-                                imageElement = boardViewModel.circleEmptyImage;
+                                imageElement = this.circleEmptyImage;
                             }
 
-                            if (boardViewModel.boardPieces[i].image != imageElement) {
-                                boardViewModel.boardPieces[i].image = imageElement;
+                            if (this.boardPieces[i].image != imageElement) {
+                                this.boardPieces[i].image = imageElement;
                             }
                         }
 
@@ -146,97 +145,67 @@ define(["require", "exports", "Board"], function(require, exports, BoardImport) 
 
             return selected;
         };
-        return BoardViewModel;
-    })();
 
-    var boardViewModel = new BoardViewModel();
-    var loading = 0;
-    var gameLoopInterval = 0;
+        BoardViewModel.prototype.gameLoop = function () {
+            var timeout = 10;
 
-    function gameLoop() {
-        var timeout = 10;
+            // Update
+            var gameLoopRequired = this.Update();
 
-        // Update
-        var gameLoopRequired = boardViewModel.Update();
-
-        if (gameLoopRequired === false) {
-            // Make move if available
-            if (boardViewModel.MakeMove() === true) {
-                gameLoopRequired = true;
-                timeout = 1500;
+            if (gameLoopRequired === false) {
+                // Make move if available
+                if (this.MakeMove() === true) {
+                    gameLoopRequired = true;
+                    timeout = 1500;
+                }
             }
-        }
 
-        // Draw
-        boardViewModel.Draw();
+            // Draw
+            this.Draw();
 
-        if (gameLoopRequired === true) {
-            gameLoopInterval = setTimeout(gameLoop, timeout);
-        }
-    }
-
-    function loadingResources() {
-        loading++;
-        if (loading === 2) {
-            boardViewModel.Draw();
-            setTimeout(gameLoop, 1500);
-        }
-    }
-
-    function onCanvasClick(event) {
-        if (event.pointerType) {
-            switch (event.pointerType) {
-                case "touch":
-                    break;
-                case "pen":
-                    break;
-                case "mouse":
-                    break;
+            if (gameLoopRequired === true) {
+                this.gameLoopInterval = setTimeout(this.gameLoop.bind(this), timeout);
             }
-        }
-    }
+        };
 
-    var animate = document.getElementById('canvasCaption');
-    animate.textContent = "Initializing...";
+        BoardViewModel.prototype.loadingResources = function () {
+            this.loading++;
+            if (this.loading === 2) {
+                this.Draw();
+                setTimeout(this.gameLoop.bind(this), 1500);
+            }
+        };
 
-    var game = getURLParameters("Game");
-    if (game === "") {
-        animate.textContent = "No game defined.";
-    } else {
-        if (boardViewModel.LoadGame(game) === false) {
-            animate.textContent = "Couldn't load the given game.";
-        } else {
-            animate.textContent = "";
+        BoardViewModel.prototype.LoadAndRun = function (canvas, caption) {
+            caption.textContent = "";
 
             // create a new stage and point it at our canvas:
-            var canvas = document.getElementById("boardCanvas");
             var size = window.innerWidth * 0.95;
             if (window.innerHeight < size) {
                 size = window.innerHeight * 0.95;
             }
 
-            size = Math.floor(Math.min(size, 800));
+            size = Math.floor(Math.min(size, this.configuration.maxCanvasSize));
             canvas.style.width = size + 'px';
             canvas.style.height = size + 'px';
             canvas.width = size;
             canvas.height = size;
 
-            boardViewModel.canvas = canvas;
-            boardViewModel.context = canvas.getContext("2d");
-			boardViewModel.context.globalAlpha = 0.0;
+            this.canvas = canvas;
+            this.context = canvas.getContext("2d");
 
-            boardViewModel.circleSetImage.onload = loadingResources;
-            boardViewModel.circleEmptyImage.onload = loadingResources;
+            this.circleSetImage.onload = this.loadingResources.bind(this);
+            this.circleEmptyImage.onload = this.loadingResources.bind(this);
 
-            boardViewModel.circleSetImage.src = "/MyPocketSolitaire/images/CircleSet.png";
-            boardViewModel.circleEmptyImage.src = "/MyPocketSolitaire/images/CircleEmpty.png";
+            this.circleSetImage.src = "images/CircleSet.png";
+            this.circleEmptyImage.src = "images/CircleEmpty.png";
 
-            boardViewModel.boardPieces.length = BoardImport.Board.BOARD_SIZE * BoardImport.Board.BOARD_SIZE;
+            this.boardPieces.length = BoardImport.Board.BOARD_SIZE * BoardImport.Board.BOARD_SIZE;
             var i = 0;
             var pieceSize = Math.floor(size / (BoardImport.Board.BOARD_SIZE));
             for (var y = 0; y < BoardImport.Board.BOARD_SIZE; y++) {
                 for (var x = 0; x < BoardImport.Board.BOARD_SIZE; x++) {
-                    var boardPiece = boardViewModel.board.Get(y, x);
+                    var boardPiece = this.board.Get(y, x);
 
                     var boardPieceView = new BoardPieceView();
                     boardPieceView.point.x = pieceSize * x;
@@ -246,20 +215,49 @@ define(["require", "exports", "Board"], function(require, exports, BoardImport) 
                     boardPieceView.size.y = pieceSize;
 
                     if (boardPiece === 1) {
-                        boardPieceView.image = boardViewModel.circleSetImage;
+                        boardPieceView.image = this.circleSetImage;
                     } else if (boardPiece === 0) {
-                        boardPieceView.image = boardViewModel.circleEmptyImage;
+                        boardPieceView.image = this.circleEmptyImage;
                     } else {
                         boardPieceView.isVisible = false;
                     }
 
-                    boardViewModel.boardPieces[i] = boardPieceView;
+                    this.boardPieces[i] = boardPieceView;
                     i++;
                 }
             }
+        };
+        return BoardViewModel;
+    })();
 
-            canvas.addEventListener("pointermove", onCanvasClick, false);
-            canvas.addEventListener("mousemove", onCanvasClick, false);
+    var Configuration = (function () {
+        function Configuration() {
         }
+        return Configuration;
+    })();
+    exports.Configuration = Configuration;
+
+    function Run(configuration) {
+        var canvas = document.getElementById(configuration.canvas);
+        var caption = document.getElementById(configuration.caption);
+        if (canvas === null || caption === null) {
+            return;
+        }
+
+        // Validate configuration
+        if (configuration.game == null) {
+            configuration.game = "";
+        }
+        if (configuration.animateMoves == null) {
+            configuration.animateMoves = false;
+        }
+        if (configuration.maxCanvasSize == null || configuration.maxCanvasSize <= 0) {
+            configuration.maxCanvasSize = 600;
+        }
+
+        var boardViewModel = new BoardViewModel(configuration);
+        boardViewModel.InitializeGame(configuration.game, configuration.animateMoves);
+        boardViewModel.LoadAndRun(canvas, caption);
     }
+    exports.Run = Run;
 });
