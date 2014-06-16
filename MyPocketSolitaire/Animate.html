@@ -30,7 +30,11 @@
 
     <script src="javascripts/require.js"></script>
     <script>
-        require(["javascripts/MyPocketSolitaireJS.js"],
+		require.config({
+			baseUrl: "http://jannemattila.github.io/MyPocketSolitaire/javascripts/"
+		});
+	
+        require(["MyPocketSolitaireJS"],
         function (myPocketSolitaire) {
             myPocketSolitaire.Run({
                 canvas: "canvas1",

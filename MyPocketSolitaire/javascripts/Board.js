@@ -1,5 +1,5 @@
 "use strict";
-define(["require", "exports", "./BoardMove"], function(require, exports, BoardMoveImport) {
+define(["require", "exports", "BoardMove"], function(require, exports, BoardMoveImport) {
     /**
     * Board class manages the different operations in game board
     * of pocket solitaire including state and history.

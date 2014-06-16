@@ -1,5 +1,5 @@
 ﻿"use strict";
-define(["require", "exports", "./Board"], function(require, exports, BoardImport) {
+define(["require", "exports", "Board"], function(require, exports, BoardImport) {
     var Point = (function () {
         function Point() {
         }
@@ -197,8 +197,8 @@ define(["require", "exports", "./Board"], function(require, exports, BoardImport
             this.circleSetImage.onload = this.loadingResources.bind(this);
             this.circleEmptyImage.onload = this.loadingResources.bind(this);
 
-            this.circleSetImage.src = "images/CircleSet.png";
-            this.circleEmptyImage.src = "images/CircleEmpty.png";
+            this.circleSetImage.src = "http://jannemattila.github.io/MyPocketSolitaire/images/CircleSet.png";
+            this.circleEmptyImage.src = "http://jannemattila.github.io/MyPocketSolitaire/images/CircleEmpty.png";
 
             this.boardPieces.length = BoardImport.Board.BOARD_SIZE * BoardImport.Board.BOARD_SIZE;
             var i = 0;
