@@ -1,0 +1,74 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Survo Solver</title>
+    <meta name="viewport" content="width=device-width,user-scalable=yes" />
+    <script type="text/javascript">
+        function getData() {
+            var request = new XMLHttpRequest();
+            request.open('GET', 'data/puzzles.json', false);
+            request.send(null);
+            return JSON.parse(request.response);
+        }
+
+        var puzzleIndex = 0;
+        var puzzles = getData();
+        var progressElement;
+
+        getPuzzle = function () {
+            progressElement.textContent = parseInt((puzzleIndex * 100) / puzzles.length) + " %";
+            if (puzzleIndex < puzzles.length) {
+                puzzleIndex++;
+                return { "puzzleIndex": puzzleIndex, "puzzle": puzzles[puzzleIndex - 1] };
+            }
+
+            return undefined;
+        };
+
+        function startSolvers() {
+            progressElement = document.getElementById("progress");
+            var resultsElement = document.getElementById("results");
+            var solverCount = document.getElementById("solverCount");
+            var count = solverCount.value;
+
+            var puzzles = 300;
+            var puzzlesPerSolver = puzzles / count;
+
+            var html = "";
+            for (var i = 0; i < count; i++) {
+                html += "<iframe src='singleSolver.html?begin=" + (i * puzzlesPerSolver) +
+                    "&end=" + ((i + 1) * puzzlesPerSolver) + "' width='150' height='150'></iframe>\n";
+            }
+
+            resultsElement.innerHTML = "";
+            solvers.innerHTML = html;
+        }
+    </script>
+</head>
+<body>
+    <div>
+        This page tries to demo that you can run multiple <a href="http://en.wikipedia.org/wiki/Web_worker" target="_blank">web workers</a>
+        to do (sometimes) interesting things. <br />
+        <br />
+        <b>Note:</b> If you're using this page on your mobile then this will drain your battery :D<br />
+        <br />
+    </div>
+    <div>
+        <label for="solvers">Here you can configure the number of simultaneous solvers:</label>
+        <input type="number" id="solverCount" value="4" min="1" max="8" step="1" size="2" />
+        <input type="button" name="start" value="Start" onclick="startSolvers()" />
+    </div>
+    <div id="solvers">
+        <iframe src="Empty.html" width="150" height="150"></iframe>
+        <iframe src="Empty.html" width="150" height="150"></iframe>
+        <iframe src="Empty.html" width="150" height="150"></iframe>
+        <iframe src="Empty.html" width="150" height="150"></iframe>
+    </div>
+    <pre id="progress">
+    </pre>
+
+    <pre id="results">
+    </pre>
+</body>
+</html>

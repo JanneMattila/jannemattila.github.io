@@ -9,3 +9,4 @@ You can find the blog from here:
 ##Currently planned content
 * My Pocket Solitaire (PEG Solitaire) material
 * HDInsight PowerShell material
+* Survo Solver

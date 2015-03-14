@@ -1,0 +1,13754 @@
+[
+	{
+		"name": "Survo puzzle 309/2013 (400) #443-78334",
+		"rating": 400,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#010413",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#010413",
+		"board": [
+			[
+				0,
+				10,
+				0,
+				0,
+				55
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				25
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				45
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				11
+			],
+			[
+				42,
+				25,
+				37,
+				32
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 310/2013 (400) #443-32258",
+		"rating": 400,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#010413",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#010413",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				25
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				30
+			],
+			[
+				14,
+				0,
+				0,
+				0,
+				36
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				45
+			],
+			[
+				55,
+				23,
+				45,
+				13
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 311/2013 (460) #443-22760",
+		"rating": 460,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#010413",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#010413",
+		"board": [
+			[
+				0,
+				0,
+				3,
+				0,
+				19
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				37
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				28
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				52
+			],
+			[
+				52,
+				41,
+				26,
+				17
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 159/2009 (220) #362-39042",
+		"rating": 220,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#010609",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#010609",
+		"board": [
+			[
+				0,
+				0,
+				14,
+				0,
+				0,
+				0,
+				45
+			],
+			[
+				0,
+				0,
+				0,
+				16,
+				0,
+				0,
+				74
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				8,
+				52
+			],
+			[
+				39,
+				7,
+				47,
+				36,
+				14,
+				28
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 160/2009 (500) #363-23570",
+		"rating": 500,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#010609",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#010609",
+		"board": [
+			[
+				0,
+				12,
+				0,
+				0,
+				0,
+				0,
+				66
+			],
+			[
+				0,
+				0,
+				7,
+				0,
+				0,
+				0,
+				49
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				56
+			],
+			[
+				42,
+				31,
+				26,
+				51,
+				14,
+				7
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 161/2009 (1100) #363-44528",
+		"rating": 1100,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#010609",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#010609",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				29
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				55
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				17,
+				87
+			],
+			[
+				41,
+				11,
+				23,
+				32,
+				28,
+				36
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 198/2010 (80) #342-92306",
+		"rating": 80,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#010610",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#010610",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				26
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				36
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				16
+			],
+			[
+				21,
+				18,
+				31,
+				8
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 199/2010 (270) #353-5196",
+		"rating": 270,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#010610",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#010610",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				39
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				18
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				63
+			],
+			[
+				15,
+				19,
+				24,
+				28,
+				34
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 200/2010 (750) #363-37848",
+		"rating": 750,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#010610",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#010610",
+		"board": [
+			[
+				15,
+				0,
+				0,
+				0,
+				0,
+				0,
+				63
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				23
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				85
+			],
+			[
+				41,
+				31,
+				26,
+				21,
+				36,
+				16
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 30/2007 (1) ",
+		"rating": 1,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#020107",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#020107",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				77
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				28
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				126
+			],
+			[
+				36,
+				39,
+				30,
+				33,
+				42,
+				27,
+				24
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 31/2007 (40) ",
+		"rating": 40,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#020107",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#020107",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				11,
+				0,
+				0,
+				8,
+				75
+			],
+			[
+				13,
+				12,
+				0,
+				0,
+				6,
+				10,
+				0,
+				65
+			],
+			[
+				0,
+				0,
+				14,
+				7,
+				9,
+				0,
+				0,
+				91
+			],
+			[
+				36,
+				37,
+				32,
+				38,
+				17,
+				41,
+				30
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 32/2007 (325) ",
+		"rating": 325,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#020107",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#020107",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				32
+			],
+			[
+				0,
+				0,
+				8,
+				0,
+				0,
+				38
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				50
+			],
+			[
+				6,
+				16,
+				25,
+				34,
+				39
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 234/2011 (30) #342-71184",
+		"rating": 30,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#020511",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#020511",
+		"board": [
+			[
+				10,
+				11,
+				0,
+				0,
+				41
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				15
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				22
+			],
+			[
+				18,
+				22,
+				11,
+				27
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 235/2011 (60) #343-67054",
+		"rating": 60,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#020511",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#020511",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				14
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				28
+			],
+			[
+				5,
+				0,
+				0,
+				0,
+				36
+			],
+			[
+				10,
+				30,
+				16,
+				22
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 236/2011 (120) #343-13000",
+		"rating": 120,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#020511",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#020511",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				38
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				12
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				28
+			],
+			[
+				11,
+				17,
+				22,
+				28
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 120/2008 (130) #442-88",
+		"rating": 130,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#020608",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#020608",
+		"board": [
+			[
+				0,
+				4,
+				0,
+				0,
+				37
+			],
+			[
+				0,
+				0,
+				11,
+				0,
+				31
+			],
+			[
+				0,
+				0,
+				0,
+				9,
+				47
+			],
+			[
+				10,
+				0,
+				0,
+				0,
+				21
+			],
+			[
+				52,
+				16,
+				47,
+				21
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 121/2008 (200) #443-1832",
+		"rating": 200,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#020608",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#020608",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				21
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				45
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				54
+			],
+			[
+				0,
+				6,
+				3,
+				0,
+				16
+			],
+			[
+				39,
+				45,
+				31,
+				21
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 122/2008 (500) #444-66926",
+		"rating": 500,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#020608",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#020608",
+		"board": [
+			[
+				0,
+				0,
+				14,
+				0,
+				53
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				24
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				16
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				43
+			],
+			[
+				20,
+				49,
+				38,
+				29
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 12/2006 (15) ",
+		"rating": 15,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#021006",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#021006",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				15
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				40
+			],
+			[
+				13,
+				15,
+				11,
+				7,
+				9
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 13/2006 (80) ",
+		"rating": 80,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#021006",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#021006",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				32
+			],
+			[
+				0,
+				0,
+				9,
+				0,
+				43
+			],
+			[
+				0,
+				8,
+				0,
+				0,
+				23
+			],
+			[
+				0,
+				0,
+				7,
+				0,
+				38
+			],
+			[
+				14,
+				42,
+				23,
+				57
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 14/2006 (530) ",
+		"rating": 530,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#021006",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#021006",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				25
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				39
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				56
+			],
+			[
+				25,
+				40,
+				11,
+				29,
+				15
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 156/2009 (15) #442-13198",
+		"rating": 15,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#030509",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#030509",
+		"board": [
+			[
+				0,
+				7,
+				0,
+				5,
+				25
+			],
+			[
+				0,
+				0,
+				3,
+				0,
+				38
+			],
+			[
+				13,
+				0,
+				0,
+				0,
+				30
+			],
+			[
+				0,
+				0,
+				0,
+				10,
+				43
+			],
+			[
+				56,
+				41,
+				10,
+				29
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 157/2009 (160) #443-8514",
+		"rating": 160,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#030509",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#030509",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				23
+			],
+			[
+				0,
+				11,
+				0,
+				0,
+				33
+			],
+			[
+				0,
+				0,
+				10,
+				0,
+				43
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				37
+			],
+			[
+				54,
+				44,
+				28,
+				10
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 158/2009 (880) #444-91618",
+		"rating": 880,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#030509",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#030509",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				30
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				44
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				24
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				38
+			],
+			[
+				11,
+				29,
+				57,
+				39
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 195/2010 (90) #343-13552",
+		"rating": 90,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#030510",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#030510",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				13
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				42
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				23
+			],
+			[
+				12,
+				19,
+				25,
+				22
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 196/2010 (170) #443-21994",
+		"rating": 170,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#030510",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#030510",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				31
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				55
+			],
+			[
+				8,
+				6,
+				0,
+				0,
+				39
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				11
+			],
+			[
+				30,
+				22,
+				45,
+				39
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 197/2010 (500) #443-45428",
+		"rating": 500,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#030510",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#030510",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				12
+			],
+			[
+				0,
+				6,
+				0,
+				0,
+				44
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				27
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				53
+			],
+			[
+				38,
+				20,
+				33,
+				45
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 303/2013 (30) #332-65990",
+		"rating": 30,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#040213",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#040213",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				15
+			],
+			[
+				0,
+				0,
+				0,
+				20
+			],
+			[
+				0,
+				0,
+				0,
+				10
+			],
+			[
+				9,
+				24,
+				12
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 304/2013 (65) #343-12474",
+		"rating": 65,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#040213",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#040213",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				24
+			],
+			[
+				0,
+				0,
+				0,
+				2,
+				17
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				37
+			],
+			[
+				11,
+				23,
+				31,
+				13
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 305/2013 (230) #353-78985",
+		"rating": 230,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#040213",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#040213",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				38
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				18
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				64
+			],
+			[
+				33,
+				28,
+				20,
+				15,
+				24
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 306/2013 (30) #252-11122",
+		"rating": 30,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#040313",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#040313",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				23
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				32
+			],
+			[
+				4,
+				12,
+				19,
+				6,
+				14
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 307/2013 (80) #263-63994",
+		"rating": 80,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#040313",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#040313",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				50
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				28
+			],
+			[
+				8,
+				4,
+				18,
+				21,
+				13,
+				14
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 308/2013 (200) #273-38140",
+		"rating": 200,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#040313",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#040313",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				32
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				73
+			],
+			[
+				17,
+				24,
+				15,
+				11,
+				8,
+				10,
+				20
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 231/2011 (180) #443-68844",
+		"rating": 180,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#040411",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#040411",
+		"board": [
+			[
+				0,
+				10,
+				0,
+				0,
+				28
+			],
+			[
+				0,
+				0,
+				0,
+				8,
+				44
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				40
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				24
+			],
+			[
+				53,
+				47,
+				14,
+				22
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 232/2011 (350) #443-93390",
+		"rating": 350,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#040411",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#040411",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				14
+			],
+			[
+				0,
+				12,
+				0,
+				0,
+				38
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				26
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				58
+			],
+			[
+				22,
+				39,
+				32,
+				43
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 233/2011 (450) #443-21208",
+		"rating": 450,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#040411",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#040411",
+		"board": [
+			[
+				3,
+				0,
+				0,
+				0,
+				21
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				56
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				15
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				44
+			],
+			[
+				24,
+				30,
+				38,
+				44
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 4/2006 (3) ",
+		"rating": 3,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#040906",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#040906",
+		"board": [
+			[
+				7,
+				0,
+				0,
+				16,
+				46
+			],
+			[
+				6,
+				5,
+				0,
+				0,
+				21
+			],
+			[
+				0,
+				0,
+				1,
+				12,
+				20
+			],
+			[
+				11,
+				15,
+				0,
+				0,
+				49
+			],
+			[
+				28,
+				36,
+				22,
+				50
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 5/2006 (55) ",
+		"rating": 55,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#040906",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#040906",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				3,
+				0,
+				26
+			],
+			[
+				15,
+				0,
+				0,
+				0,
+				0,
+				39
+			],
+			[
+				0,
+				11,
+				13,
+				0,
+				14,
+				55
+			],
+			[
+				25,
+				28,
+				31,
+				13,
+				23
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 6/2006 (130) ",
+		"rating": 130,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#040906",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#040906",
+		"board": [
+			[
+				11,
+				0,
+				0,
+				18,
+				0,
+				17,
+				72
+			],
+			[
+				0,
+				15,
+				0,
+				0,
+				0,
+				0,
+				43
+			],
+			[
+				0,
+				0,
+				2,
+				0,
+				16,
+				14,
+				56
+			],
+			[
+				23,
+				22,
+				23,
+				35,
+				34,
+				34
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 7/2006 (200 after detecting the composer) ",
+		"rating": 200,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#040906",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#040906",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				20
+			],
+			[
+				0,
+				11,
+				0,
+				19,
+				50
+			],
+			[
+				0,
+				0,
+				4,
+				0,
+				41
+			],
+			[
+				0,
+				15,
+				0,
+				0,
+				50
+			],
+			[
+				17,
+				0,
+				0,
+				0,
+				49
+			],
+			[
+				42,
+				54,
+				58,
+				56
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 354/2015 (1000) #443-57384",
+		"rating": 1000,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#050115",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#050115",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				40
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				30
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				18
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				48
+			],
+			[
+				51,
+				16,
+				45,
+				24
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 355/2015 (540) #443-11338",
+		"rating": 540,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#050115",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#050115",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				3,
+				33
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				31
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				53
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				19
+			],
+			[
+				37,
+				27,
+				54,
+				18
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 356/2015 (400) #443-7430",
+		"rating": 400,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#050115",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#050115",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				46
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				23
+			],
+			[
+				0,
+				0,
+				11,
+				0,
+				31
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				36
+			],
+			[
+				13,
+				54,
+				45,
+				24
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 267/2012 (100) #443-22234",
+		"rating": 100,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#050312",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#050312",
+		"board": [
+			[
+				7,
+				0,
+				0,
+				2,
+				26
+			],
+			[
+				0,
+				0,
+				10,
+				0,
+				20
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				54
+			],
+			[
+				0,
+				8,
+				0,
+				0,
+				36
+			],
+			[
+				37,
+				27,
+				53,
+				19
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 268/2012 (540) #443-82616",
+		"rating": 540,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#050312",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#050312",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				43
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				11
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				57
+			],
+			[
+				7,
+				0,
+				0,
+				0,
+				25
+			],
+			[
+				37,
+				32,
+				41,
+				26
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 269/2012 (920) #443-74130",
+		"rating": 920,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#050312",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#050312",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				16
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				40
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				53
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				27
+			],
+			[
+				16,
+				32,
+				40,
+				48
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 192/2010 (40) #443-56978",
+		"rating": 40,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#050410",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#050410",
+		"board": [
+			[
+				10,
+				0,
+				6,
+				0,
+				46
+			],
+			[
+				0,
+				8,
+				0,
+				0,
+				20
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				40
+			],
+			[
+				0,
+				0,
+				0,
+				12,
+				30
+			],
+			[
+				23,
+				46,
+				15,
+				52
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 193/2010 (1200) #443-93226",
+		"rating": 1200,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#050410",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#050410",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				43
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				24
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				30
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				39
+			],
+			[
+				46,
+				54,
+				12,
+				24
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 194/2010 (400) #443-53596",
+		"rating": 400,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#050410",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#050410",
+		"board": [
+			[
+				0,
+				0,
+				8,
+				0,
+				38
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				32
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				24
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				42
+			],
+			[
+				57,
+				11,
+				27,
+				41
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 264/2012 (25) #343-990",
+		"rating": 25,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#060212",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#060212",
+		"board": [
+			[
+				0,
+				9,
+				0,
+				0,
+				29
+			],
+			[
+				0,
+				0,
+				0,
+				7,
+				33
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				16
+			],
+			[
+				8,
+				23,
+				31,
+				16
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 265/2012 (80) #343-33460",
+		"rating": 80,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#060212",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#060212",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				39
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				17
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				22
+			],
+			[
+				23,
+				9,
+				29,
+				17
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 266/2012 (150) #343-37755",
+		"rating": 150,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#060212",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#060212",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				22
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				17
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				39
+			],
+			[
+				10,
+				17,
+				21,
+				30
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 153/2009 (55) #363-23882",
+		"rating": 55,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#060409",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#060409",
+		"board": [
+			[
+				12,
+				0,
+				8,
+				0,
+				0,
+				0,
+				57
+			],
+			[
+				0,
+				4,
+				0,
+				6,
+				0,
+				0,
+				69
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				15,
+				45
+			],
+			[
+				34,
+				7,
+				26,
+				14,
+				41,
+				49
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 154/2009 (1400) #363-77612",
+		"rating": 1400,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#060409",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#060409",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				6,
+				0,
+				0,
+				34
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				73
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				64
+			],
+			[
+				34,
+				16,
+				45,
+				29,
+				39,
+				8
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 155/2009 (1300) #362-90572",
+		"rating": 1300,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#060409",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#060409",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				93
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				56
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				22
+			],
+			[
+				27,
+				33,
+				24,
+				37,
+				30,
+				20
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 96/2008 (250)",
+		"rating": 250,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#070108",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#070108",
+		"board": [
+			[
+				19,
+				0,
+				0,
+				0,
+				15,
+				88
+			],
+			[
+				0,
+				3,
+				0,
+				7,
+				0,
+				17
+			],
+			[
+				0,
+				0,
+				12,
+				0,
+				0,
+				67
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				38
+			],
+			[
+				46,
+				42,
+				36,
+				54,
+				32
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 97/2008 (250)",
+		"rating": 250,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#070108",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#070108",
+		"board": [
+			[
+				11,
+				0,
+				0,
+				0,
+				0,
+				60
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				20
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				10,
+				40
+			],
+			[
+				20,
+				35,
+				11,
+				25,
+				29
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 98/2008 (1800)",
+		"rating": 1800,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#070108",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#070108",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				53
+			],
+			[
+				0,
+				0,
+				14,
+				0,
+				0,
+				38
+			],
+			[
+				0,
+				0,
+				17,
+				0,
+				0,
+				47
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				72
+			],
+			[
+				29,
+				11,
+				69,
+				43,
+				58
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 300/2013 (1000) #443-11022",
+		"rating": 1000,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#070113",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#070113",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				32
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				20
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				46
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				38
+			],
+			[
+				51,
+				13,
+				25,
+				47
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 301/2013 (500) #443-15013",
+		"rating": 500,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#070113",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#070113",
+		"board": [
+			[
+				2,
+				0,
+				0,
+				0,
+				24
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				13
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				54
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				45
+			],
+			[
+				22,
+				39,
+				31,
+				44
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 302/2013 (250) #443-53410",
+		"rating": 250,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#070113",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#070113",
+		"board": [
+			[
+				0,
+				0,
+				7,
+				0,
+				20
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				16
+			],
+			[
+				0,
+				10,
+				0,
+				0,
+				53
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				47
+			],
+			[
+				37,
+				23,
+				46,
+				30
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 225/2011 (400) #443-27412",
+		"rating": 400,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#070211",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#070211",
+		"board": [
+			[
+				10,
+				0,
+				0,
+				0,
+				41
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				56
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				24
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				15
+			],
+			[
+				30,
+				47,
+				37,
+				22
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 226/2011 (1300) #443-25154",
+		"rating": 1300,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#070211",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#070211",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				44
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				14
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				55
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				23
+			],
+			[
+				31,
+				45,
+				22,
+				38
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 227/2011 (?) #444-44444",
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#070211",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#070211",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				17
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				54
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				40
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				25
+			],
+			[
+				49,
+				31,
+				38,
+				18
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 228/2011 (50) #343-41302",
+		"rating": 50,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#070311",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#070311",
+		"board": [
+			[
+				11,
+				0,
+				0,
+				0,
+				35
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				18
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				25
+			],
+			[
+				23,
+				31,
+				7,
+				17
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 229/2011 (60) #343-57840",
+		"rating": 60,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#070311",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#070311",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				27
+			],
+			[
+				0,
+				4,
+				0,
+				0,
+				13
+			],
+			[
+				0,
+				0,
+				11,
+				0,
+				38
+			],
+			[
+				17,
+				26,
+				25,
+				10
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 230/2011 (125) #343-20908",
+		"rating": 125,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#070311",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#070311",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				26
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				16
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				36
+			],
+			[
+				23,
+				31,
+				14,
+				10
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 114/2008 (10) #442-60740",
+		"rating": 10,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#070408",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#070408",
+		"board": [
+			[
+				12,
+				0,
+				0,
+				0,
+				33
+			],
+			[
+				0,
+				15,
+				5,
+				10,
+				46
+			],
+			[
+				0,
+				0,
+				4,
+				9,
+				40
+			],
+			[
+				0,
+				6,
+				0,
+				0,
+				17
+			],
+			[
+				50,
+				45,
+				13,
+				28
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 115/2008 (700) #443-34444",
+		"rating": 700,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#070408",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#070408",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				36
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				17
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				29
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				54
+			],
+			[
+				17,
+				29,
+				50,
+				40
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 116/2008 (700) #444-12682",
+		"rating": 700,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#070408",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#070408",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				39
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				46
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				18
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				33
+			],
+			[
+				55,
+				39,
+				28,
+				14
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 57/2007 (10)",
+		"rating": 10,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#070507",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#070507",
+		"board": [
+			[
+				2,
+				0,
+				3,
+				0,
+				0,
+				11,
+				0,
+				40
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				10,
+				0,
+				0,
+				65
+			],
+			[
+				8,
+				9,
+				11,
+				14,
+				17,
+				20,
+				26
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 58/2007 (20)",
+		"rating": 20,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#070507",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#070507",
+		"board": [
+			[
+				9,
+				0,
+				0,
+				20,
+				0,
+				68
+			],
+			[
+				0,
+				7,
+				14,
+				0,
+				21,
+				62
+			],
+			[
+				0,
+				10,
+				0,
+				11,
+				13,
+				47
+			],
+			[
+				25,
+				0,
+				15,
+				0,
+				0,
+				71
+			],
+			[
+				5,
+				24,
+				0,
+				0,
+				8,
+				77
+			],
+			[
+				69,
+				63,
+				63,
+				62,
+				68,
+				325
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 59/2007 (1400)",
+		"rating": 1400,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#070507",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#070507",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				45
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				91
+			],
+			[
+				9,
+				10,
+				11,
+				14,
+				18,
+				22,
+				24,
+				28
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 186/2010 (90) #342-50020",
+		"rating": 90,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#080210",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#080210",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				10,
+				31
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				14
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				33
+			],
+			[
+				16,
+				29,
+				9,
+				24
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 187/2010 (80) #343-13008",
+		"rating": 80,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#080210",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#080210",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				42
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				23
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				13
+			],
+			[
+				13,
+				17,
+				26,
+				22
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 188/2010 (870) #443-34532",
+		"rating": 870,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#080210",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#080210",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				27
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				12
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				52
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				45
+			],
+			[
+				20,
+				45,
+				31,
+				40
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 189/2010 (220) #353-28358",
+		"rating": 220,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#080310",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#080310",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				38
+			],
+			[
+				12,
+				0,
+				0,
+				0,
+				0,
+				61
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				21
+			],
+			[
+				22,
+				34,
+				29,
+				10,
+				25
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 190/2010 (850) #353-32944",
+		"rating": 850,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#080310",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#080310",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				27
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				38
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				55
+			],
+			[
+				30,
+				7,
+				39,
+				25,
+				19
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 191/2010 (6000) #453-2518",
+		"rating": 6000,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#080310",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#080310",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				62
+			],
+			[
+				0,
+				0,
+				0,
+				4,
+				0,
+				27
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				80
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				41
+			],
+			[
+				48,
+				30,
+				69,
+				40,
+				23
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 1/2006 (15) ",
+		"rating": 15,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#080606",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#080606",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				8
+			],
+			[
+				0,
+				0,
+				0,
+				17
+			],
+			[
+				0,
+				0,
+				0,
+				20
+			],
+			[
+				8,
+				15,
+				22
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 2/2006 (30) ",
+		"rating": 30,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#080606",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#080606",
+		"board": [
+			[
+				0,
+				12,
+				0,
+				0,
+				30
+			],
+			[
+				0,
+				0,
+				0,
+				10,
+				16
+			],
+			[
+				11,
+				0,
+				0,
+				0,
+				32
+			],
+			[
+				22,
+				20,
+				14,
+				22
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 3/2006 (1550) ",
+		"rating": 1550,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#080606",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#080606",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				64
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				146
+			],
+			[
+				10,
+				11,
+				14,
+				17,
+				20,
+				22,
+				23,
+				27,
+				31,
+				35
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 261/2012 (40) #443-90624",
+		"rating": 40,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#090112",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#090112",
+		"board": [
+			[
+				0,
+				0,
+				10,
+				0,
+				29
+			],
+			[
+				9,
+				14,
+				0,
+				0,
+				42
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				16
+			],
+			[
+				11,
+				0,
+				0,
+				0,
+				49
+			],
+			[
+				26,
+				50,
+				43,
+				17
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 262/2012 (130) #442-34250",
+		"rating": 130,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#090112",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#090112",
+		"board": [
+			[
+				10,
+				0,
+				0,
+				0,
+				31
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				11
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				42
+			],
+			[
+				0,
+				0,
+				0,
+				12,
+				52
+			],
+			[
+				41,
+				21,
+				46,
+				28
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 263/2012 (890) #443-51118",
+		"rating": 890,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#090112",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#090112",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				39
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				31
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				49
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				17
+			],
+			[
+				17,
+				39,
+				26,
+				54
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 147/2009 (60) #353-16334",
+		"rating": 60,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#090209",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#090209",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				44
+			],
+			[
+				0,
+				0,
+				0,
+				15,
+				12,
+				55
+			],
+			[
+				1,
+				2,
+				5,
+				0,
+				0,
+				21
+			],
+			[
+				11,
+				16,
+				28,
+				38,
+				27
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 148/2009 (40) #353-57700",
+		"rating": 40,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#090209",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#090209",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				9,
+				58
+			],
+			[
+				0,
+				0,
+				0,
+				10,
+				0,
+				27
+			],
+			[
+				0,
+				11,
+				0,
+				0,
+				0,
+				35
+			],
+			[
+				24,
+				34,
+				10,
+				36,
+				16
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 149/2009 (350) #352-400518",
+		"rating": 350,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#090209",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#090209",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				15
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				61
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				44
+			],
+			[
+				24,
+				21,
+				32,
+				15,
+				28
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 150/2009 (40) #442-85530",
+		"rating": 40,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#090309",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#090309",
+		"board": [
+			[
+				0,
+				9,
+				0,
+				0,
+				44
+			],
+			[
+				3,
+				0,
+				0,
+				4,
+				10
+			],
+			[
+				0,
+				6,
+				5,
+				0,
+				26
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				56
+			],
+			[
+				36,
+				30,
+				28,
+				42
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 151/2009 (250) #443-21366",
+		"rating": 250,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#090309",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#090309",
+		"board": [
+			[
+				0,
+				15,
+				9,
+				0,
+				42
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				45
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				22
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				27
+			],
+			[
+				14,
+				55,
+				26,
+				41
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 152/2009 (610) #443-73064",
+		"rating": 610,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#090309",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#090309",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				26
+			],
+			[
+				0,
+				0,
+				15,
+				0,
+				55
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				44
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				11
+			],
+			[
+				38,
+				23,
+				42,
+				33
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 51/2007 (35) ",
+		"rating": 35,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#090407",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#090407",
+		"board": [
+			[
+				5,
+				2,
+				0,
+				0,
+				8,
+				35
+			],
+			[
+				0,
+				0,
+				0,
+				11,
+				0,
+				40
+			],
+			[
+				0,
+				0,
+				10,
+				0,
+				0,
+				45
+			],
+			[
+				28,
+				23,
+				24,
+				21,
+				24
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 52/2007 (530) ",
+		"rating": 530,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#090407",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#090407",
+		"board": [
+			[
+				0,
+				0,
+				17,
+				3,
+				0,
+				49
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				11,
+				60
+			],
+			[
+				5,
+				18,
+				0,
+				0,
+				0,
+				46
+			],
+			[
+				0,
+				7,
+				12,
+				0,
+				0,
+				55
+			],
+			[
+				42,
+				41,
+				41,
+				42,
+				44
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 53/2007 (1100 without the hint) ",
+		"rating": 1100,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#090407",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#090407",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				27
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				13
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				53
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				43
+			],
+			[
+				47,
+				39,
+				29,
+				21
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 66/2007 (120)",
+		"rating": 120,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#090707",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#090707",
+		"board": [
+			[
+				0,
+				11,
+				8,
+				0,
+				0,
+				0,
+				56
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				6,
+				48
+			],
+			[
+				9,
+				0,
+				0,
+				13,
+				7,
+				0,
+				67
+			],
+			[
+				20,
+				30,
+				23,
+				33,
+				26,
+				39
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 67/2007 (510)",
+		"rating": 510,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#090707",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#090707",
+		"board": [
+			[
+				16,
+				0,
+				0,
+				0,
+				11,
+				0,
+				63
+			],
+			[
+				0,
+				8,
+				0,
+				14,
+				0,
+				0,
+				43
+			],
+			[
+				0,
+				0,
+				17,
+				0,
+				0,
+				0,
+				65
+			],
+			[
+				25,
+				39,
+				25,
+				22,
+				33,
+				27
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 68/2007 (1200)",
+		"rating": 1200,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#090707",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#090707",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				90
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				48
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				33
+			],
+			[
+				43,
+				35,
+				31,
+				27,
+				22,
+				13
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 333/2013 (35) #252-30659",
+		"rating": 35,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#091213",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#091213",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				16
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				39
+			],
+			[
+				6,
+				12,
+				15,
+				13,
+				9
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 334/2013 (80) #262-17669",
+		"rating": 80,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#091213",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#091213",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				27
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				51
+			],
+			[
+				20,
+				5,
+				8,
+				15,
+				11,
+				19
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 335/2013 (200) #273-32251",
+		"rating": 200,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#091213",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#091213",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				70
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				35
+			],
+			[
+				16,
+				21,
+				9,
+				7,
+				14,
+				12,
+				26
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 222/2011 (50) #252-77838",
+		"rating": 50,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#100111",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#100111",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				35
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				20
+			],
+			[
+				11,
+				8,
+				14,
+				18,
+				4
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 223/2011 (60) #263-83918",
+		"rating": 60,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#100111",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#100111",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				24
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				54
+			],
+			[
+				6,
+				9,
+				19,
+				18,
+				14,
+				12
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 224/2011 (230) #274-16228",
+		"rating": 230,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#100111",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#100111",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				69
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				36
+			],
+			[
+				12,
+				17,
+				9,
+				14,
+				6,
+				26,
+				21
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 108/2008 (30) #263-36000",
+		"rating": 30,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#100308",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#100308",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				50
+			],
+			[
+				0,
+				0,
+				4,
+				0,
+				0,
+				0,
+				28
+			],
+			[
+				21,
+				4,
+				10,
+				10,
+				18,
+				15
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 109/2008 (220) #273-55664",
+		"rating": 220,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#100308",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#100308",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				46
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				59
+			],
+			[
+				4,
+				15,
+				20,
+				22,
+				7,
+				10,
+				27
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 110/2008 (430) #284-27210",
+		"rating": 430,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#100308",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#100308",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				43
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				93
+			],
+			[
+				10,
+				7,
+				20,
+				16,
+				12,
+				19,
+				25,
+				27
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 351/2014 (70) #343-67100",
+		"rating": 70,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#101114",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#101114",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				24
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				15
+			],
+			[
+				11,
+				0,
+				0,
+				0,
+				39
+			],
+			[
+				20,
+				30,
+				11,
+				17
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 352/2014 (320) #353-84926",
+		"rating": 320,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#101114",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#101114",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				16
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				64
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				40
+			],
+			[
+				24,
+				21,
+				16,
+				32,
+				27
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 353/2014 (2200) #363-56543",
+		"rating": 2200,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#101114",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#101114",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				60
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				86
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				25
+			],
+			[
+				32,
+				15,
+				37,
+				40,
+				19,
+				28
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 90/2007 (400)",
+		"rating": 400,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#101207",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#101207",
+		"board": [
+			[
+				0,
+				0,
+				11,
+				0,
+				15,
+				53
+			],
+			[
+				0,
+				12,
+				0,
+				9,
+				0,
+				47
+			],
+			[
+				7,
+				0,
+				0,
+				14,
+				0,
+				59
+			],
+			[
+				0,
+				13,
+				8,
+				0,
+				10,
+				51
+			],
+			[
+				43,
+				51,
+				39,
+				46,
+				31
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 91/2007 (?)",
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#101207",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#101207",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				7,
+				0,
+				51
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				54
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				62
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				43
+			],
+			[
+				42,
+				59,
+				11,
+				25,
+				73
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 92/2007 (9800)",
+		"rating": 9800,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#101207",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#101207",
+		"board": [
+			[
+				1,
+				0,
+				0,
+				0,
+				0,
+				38
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				45
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				56
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				20,
+				71
+			],
+			[
+				11,
+				26,
+				49,
+				58,
+				66
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 297/2012 (17500) #453-76398",
+		"rating": 17500,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#101212",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#101212",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				48
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				42
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				64
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				56
+			],
+			[
+				12,
+				74,
+				24,
+				45,
+				55
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 298/2012 (8200) #453-70218",
+		"rating": 8200,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#101212",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#101212",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				47
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				39
+			],
+			[
+				0,
+				0,
+				7,
+				0,
+				0,
+				57
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				67
+			],
+			[
+				15,
+				46,
+				21,
+				72,
+				56
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 299/2012 (8100) #453-17108",
+		"rating": 8100,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#101212",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#101212",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				63
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				22
+			],
+			[
+				0,
+				0,
+				0,
+				16,
+				0,
+				54
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				71
+			],
+			[
+				41,
+				34,
+				57,
+				63,
+				15
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 102/2008 (130) #343-1234",
+		"rating": 130,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#110208",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#110208",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				25
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				33
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				20
+			],
+			[
+				14,
+				8,
+				33,
+				23
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 103/2008 (150) #444-81842",
+		"rating": 150,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#110208",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#110208",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				14
+			],
+			[
+				0,
+				0,
+				0,
+				9,
+				41
+			],
+			[
+				4,
+				0,
+				0,
+				0,
+				27
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				54
+			],
+			[
+				23,
+				51,
+				33,
+				29
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 104/2008 (1900) #544-54990",
+		"rating": 1900,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#110208",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#110208",
+		"board": [
+			[
+				4,
+				0,
+				0,
+				0,
+				49
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				36
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				24
+			],
+			[
+				0,
+				0,
+				0,
+				18,
+				44
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				57
+			],
+			[
+				17,
+				45,
+				64,
+				84
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 63/2007 (10)",
+		"rating": 10,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#110607",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#110607",
+		"board": [
+			[
+				9,
+				0,
+				0,
+				0,
+				34
+			],
+			[
+				0,
+				6,
+				0,
+				3,
+				36
+			],
+			[
+				0,
+				10,
+				7,
+				0,
+				35
+			],
+			[
+				11,
+				0,
+				0,
+				4,
+				31
+			],
+			[
+				40,
+				31,
+				37,
+				28
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 64/2007 (1000)",
+		"rating": 1000,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#110607",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#110607",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				32
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				11
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				40
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				53
+			],
+			[
+				22,
+				30,
+				35,
+				49
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 65/2007 (2050)",
+		"rating": 2050,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#110607",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#110607",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				51
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				36
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				32
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				17
+			],
+			[
+				51,
+				42,
+				26,
+				17
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 27/2006 (13) ",
+		"rating": 13,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#111206",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#111206",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				11
+			],
+			[
+				0,
+				0,
+				0,
+				15
+			],
+			[
+				0,
+				0,
+				0,
+				19
+			],
+			[
+				7,
+				14,
+				24
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 28/2006 (70) ",
+		"rating": 70,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#111206",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#111206",
+		"board": [
+			[
+				22,
+				23,
+				0,
+				5,
+				0,
+				10,
+				19,
+				111
+			],
+			[
+				0,
+				13,
+				26,
+				0,
+				25,
+				24,
+				0,
+				117
+			],
+			[
+				0,
+				8,
+				27,
+				0,
+				21,
+				15,
+				0,
+				99
+			],
+			[
+				18,
+				0,
+				0,
+				7,
+				0,
+				0,
+				1,
+				79
+			],
+			[
+				69,
+				55,
+				93,
+				31,
+				66,
+				63,
+				29
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 29/2006 (2200) ",
+		"rating": 2200,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#111206",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#111206",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				18
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				27
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				40
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				51
+			],
+			[
+				22,
+				24,
+				36,
+				54
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 144/2009 (10) #332-57720",
+		"rating": 10,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#120109",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#120109",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				17
+			],
+			[
+				0,
+				0,
+				0,
+				20
+			],
+			[
+				2,
+				0,
+				0,
+				8
+			],
+			[
+				16,
+				8,
+				21
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 145/2009 (90) #342-99524",
+		"rating": 90,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#120109",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#120109",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				15
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				22
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				41
+			],
+			[
+				23,
+				11,
+				17,
+				27
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 146/2009 (330) #354-10268",
+		"rating": 330,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#120109",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#120109",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				23
+			],
+			[
+				13,
+				0,
+				0,
+				0,
+				0,
+				60
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				37
+			],
+			[
+				25,
+				31,
+				9,
+				34,
+				21
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 39/2007 (10) ",
+		"rating": 10,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#120207",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#120207",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				14
+			],
+			[
+				0,
+				7,
+				0,
+				16
+			],
+			[
+				0,
+				0,
+				4,
+				15
+			],
+			[
+				13,
+				15,
+				17
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 40/2007 (55) ",
+		"rating": 55,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#120207",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#120207",
+		"board": [
+			[
+				0,
+				0,
+				2,
+				12
+			],
+			[
+				0,
+				0,
+				0,
+				17
+			],
+			[
+				0,
+				0,
+				0,
+				16
+			],
+			[
+				14,
+				15,
+				16
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 41/2007 (?) ",
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#120207",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#120207",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				12
+			],
+			[
+				0,
+				0,
+				0,
+				17
+			],
+			[
+				0,
+				0,
+				0,
+				16
+			],
+			[
+				14,
+				15,
+				16
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 45/2007 (5) ",
+		"rating": 5,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#120307",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#120307",
+		"board": [
+			[
+				13,
+				0,
+				11,
+				0,
+				46
+			],
+			[
+				0,
+				3,
+				2,
+				0,
+				28
+			],
+			[
+				0,
+				4,
+				0,
+				8,
+				28
+			],
+			[
+				16,
+				0,
+				0,
+				7,
+				34
+			],
+			[
+				58,
+				24,
+				20,
+				34
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 46/2007 (270) ",
+		"rating": 270,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#120307",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#120307",
+		"board": [
+			[
+				7,
+				0,
+				0,
+				16,
+				34
+			],
+			[
+				0,
+				15,
+				0,
+				0,
+				37
+			],
+			[
+				0,
+				11,
+				0,
+				0,
+				29
+			],
+			[
+				10,
+				0,
+				0,
+				0,
+				36
+			],
+			[
+				32,
+				33,
+				29,
+				42
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 47/2007 (2260) ",
+		"rating": 2260,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#120307",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#120307",
+		"board": [
+			[
+				19,
+				0,
+				3,
+				0,
+				14,
+				66
+			],
+			[
+				24,
+				0,
+				0,
+				0,
+				0,
+				57
+			],
+			[
+				0,
+				17,
+				0,
+				0,
+				0,
+				41
+			],
+			[
+				23,
+				25,
+				0,
+				0,
+				12,
+				91
+			],
+			[
+				0,
+				0,
+				0,
+				13,
+				5,
+				70
+			],
+			[
+				88,
+				86,
+				54,
+				51,
+				46
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 84/2007 (15)",
+		"rating": 15,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#121107",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#121107",
+		"board": [
+			[
+				0,
+				0,
+				3,
+				0,
+				26
+			],
+			[
+				5,
+				1,
+				0,
+				0,
+				23
+			],
+			[
+				0,
+				0,
+				0,
+				2,
+				29
+			],
+			[
+				28,
+				14,
+				21,
+				15
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 85/2007 (25)",
+		"rating": 25,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#121107",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#121107",
+		"board": [
+			[
+				0,
+				7,
+				8,
+				0,
+				0,
+				34
+			],
+			[
+				0,
+				0,
+				0,
+				12,
+				0,
+				39
+			],
+			[
+				10,
+				0,
+				0,
+				0,
+				6,
+				47
+			],
+			[
+				24,
+				22,
+				17,
+				27,
+				30
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 86/2007 (50)",
+		"rating": 50,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#121107",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#121107",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				23
+			],
+			[
+				0,
+				4,
+				8,
+				11,
+				0,
+				38
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				59
+			],
+			[
+				11,
+				16,
+				28,
+				29,
+				36
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 294/2012 (70) #262-68185",
+		"rating": 70,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#121112",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#121112",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				26
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				52
+			],
+			[
+				6,
+				11,
+				21,
+				8,
+				14,
+				18
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 295/2012 (300) #272-13564",
+		"rating": 300,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#121112",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#121112",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				64
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				41
+			],
+			[
+				15,
+				20,
+				10,
+				5,
+				25,
+				7,
+				23
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 296/2012 (380) #282-80614",
+		"rating": 380,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#121112",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#121112",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				43
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				93
+			],
+			[
+				6,
+				27,
+				19,
+				14,
+				10,
+				24,
+				15,
+				21
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 258/2011 (830) #362-4054",
+		"rating": 830,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#121211",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#121211",
+		"board": [
+			[
+				0,
+				7,
+				0,
+				0,
+				0,
+				0,
+				26
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				82
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				63
+			],
+			[
+				22,
+				37,
+				41,
+				27,
+				33,
+				11
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 259/2011 (720) #363-51172",
+		"rating": 720,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#121211",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#121211",
+		"board": [
+			[
+				0,
+				0,
+				16,
+				0,
+				0,
+				0,
+				91
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				49
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				31
+			],
+			[
+				15,
+				25,
+				34,
+				21,
+				40,
+				36
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 260/2011 (1730) #363-81314",
+		"rating": 1730,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#121211",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#121211",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				27
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				63
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				81
+			],
+			[
+				35,
+				46,
+				14,
+				26,
+				31,
+				19
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 21/2006 (30) ",
+		"rating": 30,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#131106",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#131106",
+		"board": [
+			[
+				18,
+				0,
+				24,
+				0,
+				9,
+				0,
+				99
+			],
+			[
+				0,
+				15,
+				0,
+				16,
+				0,
+				14,
+				85
+			],
+			[
+				0,
+				0,
+				10,
+				0,
+				20,
+				0,
+				59
+			],
+			[
+				2,
+				3,
+				0,
+				11,
+				0,
+				12,
+				57
+			],
+			[
+				25,
+				31,
+				74,
+				53,
+				57,
+				60
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 22/2006 (210) ",
+		"rating": 210,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#131106",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#131106",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				7,
+				43
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				29
+			],
+			[
+				0,
+				0,
+				8,
+				0,
+				16
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				48
+			],
+			[
+				20,
+				40,
+				52,
+				24
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 23/2006 (670) ",
+		"rating": 670,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#131106",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#131106",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				24
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				40
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				56
+			],
+			[
+				7,
+				21,
+				25,
+				30,
+				37
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 219/2010 (480) #443-30068",
+		"rating": 480,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#131210",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#131210",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				13
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				47
+			],
+			[
+				7,
+				0,
+				0,
+				0,
+				23
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				53
+			],
+			[
+				43,
+				40,
+				30,
+				23
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 220/2010 (250) #443-96210",
+		"rating": 250,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#131210",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#131210",
+		"board": [
+			[
+				0,
+				15,
+				0,
+				0,
+				58
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				42
+			],
+			[
+				4,
+				0,
+				0,
+				0,
+				12
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				24
+			],
+			[
+				40,
+				38,
+				32,
+				26
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 221/2010 (720) #443-38066",
+		"rating": 720,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#131210",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#131210",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				14
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				39
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				56
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				27
+			],
+			[
+				19,
+				39,
+				33,
+				45
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 330/2013 (570) #353-84449",
+		"rating": 570,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#141013",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#141013",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				41
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				29
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				50
+			],
+			[
+				32,
+				10,
+				14,
+				22,
+				42
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 331/2013 (280) #353-77326",
+		"rating": 280,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#141013",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#141013",
+		"board": [
+			[
+				0,
+				8,
+				0,
+				0,
+				0,
+				36
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				59
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				25
+			],
+			[
+				13,
+				23,
+				40,
+				17,
+				27
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 332/2013 (560) #353-66813",
+		"rating": 560,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#141013",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#141013",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				42
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				59
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				19
+			],
+			[
+				29,
+				35,
+				20,
+				25,
+				11
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 255/2011 (30) #353-35906",
+		"rating": 30,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#141111",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#141111",
+		"board": [
+			[
+				0,
+				0,
+				12,
+				0,
+				0,
+				37
+			],
+			[
+				8,
+				0,
+				0,
+				0,
+				0,
+				61
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				4,
+				22
+			],
+			[
+				13,
+				30,
+				36,
+				17,
+				24
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 256/2011 (230) #353-84662",
+		"rating": 230,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#141111",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#141111",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				59
+			],
+			[
+				0,
+				4,
+				0,
+				0,
+				0,
+				21
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				40
+			],
+			[
+				37,
+				24,
+				11,
+				29,
+				19
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 257/2011 (330) #353-76546",
+		"rating": 330,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#141111",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#141111",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				18
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				57
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				45
+			],
+			[
+				37,
+				27,
+				20,
+				24,
+				12
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 180/2009 (850) #353-55552",
+		"rating": 850,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#141209",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#141209",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				39
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				51
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				30
+			],
+			[
+				28,
+				13,
+				8,
+				31,
+				40
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 181/2009 (7000) #453-36744",
+		"rating": 7000,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#141209",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#141209",
+		"board": [
+			[
+				0,
+				3,
+				0,
+				0,
+				0,
+				57
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				30
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				71
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				52
+			],
+			[
+				46,
+				16,
+				23,
+				59,
+				66
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 182/2009 (9000) #453-16184",
+		"rating": 9000,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#141209",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#141209",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				72
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				63
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				19
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				56
+			],
+			[
+				41,
+				19,
+				51,
+				33,
+				66
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 33/2007 (0) ",
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#150107",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#150107",
+		"board": [
+			[
+				15,
+				4,
+				0,
+				3,
+				28
+			],
+			[
+				0,
+				0,
+				2,
+				10,
+				24
+			],
+			[
+				0,
+				11,
+				0,
+				0,
+				44
+			],
+			[
+				13,
+				0,
+				14,
+				1,
+				40
+			],
+			[
+				43,
+				32,
+				38,
+				23
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 34/2007 (100) ",
+		"rating": 100,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#150107",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#150107",
+		"board": [
+			[
+				1,
+				0,
+				0,
+				8,
+				16
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				29
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				41
+			],
+			[
+				7,
+				0,
+				0,
+				16,
+				50
+			],
+			[
+				15,
+				32,
+				38,
+				51
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 35/2007 (870) ",
+		"rating": 870,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#150107",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#150107",
+		"board": [
+			[
+				0,
+				0,
+				8,
+				0,
+				42
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				22
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				46
+			],
+			[
+				0,
+				6,
+				9,
+				0,
+				26
+			],
+			[
+				43,
+				32,
+				28,
+				33
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 348/2014 (270) #353-76963",
+		"rating": 270,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#150914",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#150914",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				60
+			],
+			[
+				0,
+				0,
+				0,
+				2,
+				0,
+				16
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				44
+			],
+			[
+				28,
+				24,
+				34,
+				15,
+				19
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 349/2014 (250) #353-72426",
+		"rating": 250,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#150914",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#150914",
+		"board": [
+			[
+				4,
+				0,
+				0,
+				0,
+				0,
+				52
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				27
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				41
+			],
+			[
+				8,
+				38,
+				16,
+				23,
+				35
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 350/2014 (400) #353-67867",
+		"rating": 400,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#150914",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#150914",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				62
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				37
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				21
+			],
+			[
+				17,
+				26,
+				13,
+				30,
+				34
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 78/2007 (55)",
+		"rating": 55,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#151007",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#151007",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				53
+			],
+			[
+				0,
+				1,
+				2,
+				0,
+				22
+			],
+			[
+				0,
+				3,
+				4,
+				0,
+				30
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				31
+			],
+			[
+				40,
+				17,
+				35,
+				44
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 79/2007 (175)",
+		"rating": 175,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#151007",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#151007",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				25
+			],
+			[
+				0,
+				1,
+				0,
+				0,
+				35
+			],
+			[
+				0,
+				15,
+				2,
+				0,
+				33
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				43
+			],
+			[
+				38,
+				24,
+				44,
+				30
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 80/2007 (17500)",
+		"rating": 17500,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#151007",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#151007",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				20
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				44
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				65
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				81
+			],
+			[
+				24,
+				33,
+				38,
+				57,
+				58
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 291/2012 (70) #443-30404",
+		"rating": 70,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#151012",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#151012",
+		"board": [
+			[
+				15,
+				0,
+				0,
+				0,
+				45
+			],
+			[
+				0,
+				0,
+				0,
+				8,
+				51
+			],
+			[
+				0,
+				2,
+				0,
+				0,
+				12
+			],
+			[
+				0,
+				0,
+				9,
+				0,
+				28
+			],
+			[
+				46,
+				32,
+				39,
+				19
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 292/2012 (440) #443-55466",
+		"rating": 440,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#151012",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#151012",
+		"board": [
+			[
+				3,
+				0,
+				0,
+				0,
+				23
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				14
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				54
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				45
+			],
+			[
+				22,
+				37,
+				46,
+				31
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 293/2012 (1500) #443-81812",
+		"rating": 1500,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#151012",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#151012",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				41
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				51
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				19
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				25
+			],
+			[
+				38,
+				14,
+				50,
+				34
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 216/2010 (35) #332-60200",
+		"rating": 35,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#151110",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#151110",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				22
+			],
+			[
+				0,
+				0,
+				0,
+				16
+			],
+			[
+				0,
+				0,
+				0,
+				7
+			],
+			[
+				10,
+				20,
+				15
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 217/2010 (35) #343-35748",
+		"rating": 35,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#151110",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#151110",
+		"board": [
+			[
+				0,
+				0,
+				8,
+				1,
+				18
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				39
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				21
+			],
+			[
+				23,
+				17,
+				29,
+				9
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 218/2010 (650) #353-14568",
+		"rating": 650,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#151110",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#151110",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				36
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				25
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				59
+			],
+			[
+				16,
+				23,
+				38,
+				12,
+				31
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 141/2008 (250) #362-54648",
+		"rating": 250,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#151208",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#151208",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				67
+			],
+			[
+				0,
+				0,
+				0,
+				13,
+				0,
+				8,
+				55
+			],
+			[
+				0,
+				10,
+				0,
+				0,
+				0,
+				0,
+				49
+			],
+			[
+				50,
+				35,
+				14,
+				41,
+				7,
+				24
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 142/2008 (2200) #363-11936",
+		"rating": 2200,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#151208",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#151208",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				75
+			],
+			[
+				2,
+				0,
+				0,
+				0,
+				0,
+				0,
+				42
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				54
+			],
+			[
+				15,
+				21,
+				49,
+				12,
+				43,
+				31
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 143/2008 (3700) #454-58176",
+		"rating": 3700,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#151208",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#151208",
+		"board": [
+			[
+				6,
+				0,
+				0,
+				0,
+				0,
+				24
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				46
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				81
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				59
+			],
+			[
+				53,
+				19,
+				46,
+				62,
+				30
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 327/2013 (1100) #443-38476",
+		"rating": 1100,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#160913",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#160913",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				40
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				31
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				44
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				21
+			],
+			[
+				45,
+				26,
+				53,
+				12
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 328/2013 (500) #443-32490",
+		"rating": 500,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#160913",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#160913",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				55
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				21
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				27
+			],
+			[
+				3,
+				0,
+				0,
+				0,
+				33
+			],
+			[
+				17,
+				29,
+				52,
+				38
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 329/2013 (650) #443-26194",
+		"rating": 650,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#160913",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#160913",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				21
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				48
+			],
+			[
+				14,
+				0,
+				0,
+				0,
+				39
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				28
+			],
+			[
+				53,
+				23,
+				44,
+				16
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 15/2006 (45) ",
+		"rating": 45,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#161006",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#161006",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				7
+			],
+			[
+				0,
+				0,
+				0,
+				17
+			],
+			[
+				0,
+				0,
+				0,
+				21
+			],
+			[
+				11,
+				14,
+				20
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 16/2006 (300) ",
+		"rating": 300,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#161006",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#161006",
+		"board": [
+			[
+				0,
+				20,
+				0,
+				0,
+				0,
+				0,
+				11,
+				0,
+				77
+			],
+			[
+				17,
+				0,
+				0,
+				16,
+				0,
+				9,
+				0,
+				0,
+				85
+			],
+			[
+				0,
+				0,
+				8,
+				0,
+				18,
+				0,
+				0,
+				19,
+				138
+			],
+			[
+				34,
+				47,
+				17,
+				63,
+				26,
+				44,
+				33,
+				36
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 17/2006 (1200) ",
+		"rating": 1200,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#161006",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#161006",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				51
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				38
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				29
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				18
+			],
+			[
+				55,
+				35,
+				27,
+				19
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 177/2009 (60) #342-98466",
+		"rating": 60,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#161109",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#161109",
+		"board": [
+			[
+				3,
+				0,
+				0,
+				0,
+				16
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				22
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				40
+			],
+			[
+				16,
+				22,
+				11,
+				29
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 178/2009 (150) #343-90056",
+		"rating": 150,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#161109",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#161109",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				24
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				17
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				37
+			],
+			[
+				20,
+				16,
+				32,
+				10
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 179/2009 (110) #343-10232",
+		"rating": 110,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#161109",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#161109",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				32
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				21
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				25
+			],
+			[
+				24,
+				33,
+				8,
+				13
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 75/2007 (60)",
+		"rating": 60,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#170907",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#170907",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				16,
+				17,
+				54
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				15,
+				0,
+				70
+			],
+			[
+				8,
+				7,
+				12,
+				14,
+				0,
+				0,
+				78
+			],
+			[
+				11,
+				9,
+				13,
+				0,
+				0,
+				0,
+				98
+			],
+			[
+				22,
+				24,
+				39,
+				61,
+				73,
+				81
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 76/2007 (680)",
+		"rating": 680,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#170907",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#170907",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				11,
+				0,
+				0,
+				54
+			],
+			[
+				0,
+				0,
+				8,
+				0,
+				0,
+				21,
+				70
+			],
+			[
+				0,
+				9,
+				0,
+				0,
+				24,
+				0,
+				78
+			],
+			[
+				16,
+				0,
+				0,
+				23,
+				0,
+				22,
+				98
+			],
+			[
+				22,
+				24,
+				39,
+				61,
+				73,
+				81
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 77/2007 (?)",
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#170907",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#170907",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				54
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				70
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				78
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				98
+			],
+			[
+				22,
+				24,
+				39,
+				61,
+				73,
+				81
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 288/2012 (670) #353-93304",
+		"rating": 670,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#170912",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#170912",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				33
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				39
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				48
+			],
+			[
+				32,
+				13,
+				42,
+				25,
+				8
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 289/2012 (320) #353-10706",
+		"rating": 320,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#170912",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#170912",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				23
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				64
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				33
+			],
+			[
+				14,
+				35,
+				19,
+				23,
+				29
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 290/2012 (4400) #363-95581",
+		"rating": 4400,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#170912",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#170912",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				36
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				76
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				59
+			],
+			[
+				44,
+				39,
+				31,
+				35,
+				13,
+				9
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 252/2011 (190) #443-60426",
+		"rating": 190,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#171011",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#171011",
+		"board": [
+			[
+				3,
+				0,
+				0,
+				0,
+				36
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				43
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				22
+			],
+			[
+				0,
+				0,
+				0,
+				14,
+				35
+			],
+			[
+				13,
+				24,
+				43,
+				56
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 253/2011 (1050) #443-98450",
+		"rating": 1050,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#171011",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#171011",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				13
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				56
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				43
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				24
+			],
+			[
+				30,
+				24,
+				45,
+				37
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 254/2011 (1350) #443-55526",
+		"rating": 1350,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#171011",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#171011",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				44
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				32
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				38
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				22
+			],
+			[
+				22,
+				54,
+				14,
+				46
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 138/2008 (30) #443-11500",
+		"rating": 30,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#171108",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#171108",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				2,
+				17
+			],
+			[
+				15,
+				0,
+				12,
+				0,
+				42
+			],
+			[
+				0,
+				3,
+				0,
+				0,
+				25
+			],
+			[
+				0,
+				0,
+				14,
+				0,
+				52
+			],
+			[
+				52,
+				20,
+				35,
+				29
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 139/2008 (800) #443-10002",
+		"rating": 800,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#171108",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#171108",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				38
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				29
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				46
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				23
+			],
+			[
+				55,
+				42,
+				12,
+				27
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 140/2008 (10000) #453-20000",
+		"rating": 10000,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#171108",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#171108",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				68
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				16
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				86
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				40
+			],
+			[
+				43,
+				37,
+				29,
+				54,
+				47
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 8/2006 (10) ",
+		"rating": 10,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#180906",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#180906",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				2,
+				3,
+				37
+			],
+			[
+				11,
+				0,
+				5,
+				0,
+				0,
+				43
+			],
+			[
+				0,
+				1,
+				0,
+				15,
+				8,
+				40
+			],
+			[
+				24,
+				28,
+				26,
+				27,
+				15
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 9/2006 (100) ",
+		"rating": 100,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#180906",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#180906",
+		"board": [
+			[
+				1,
+				2,
+				0,
+				0,
+				0,
+				21
+			],
+			[
+				3,
+				4,
+				0,
+				0,
+				0,
+				73
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				13,
+				85
+			],
+			[
+				0,
+				15,
+				0,
+				18,
+				16,
+				84
+			],
+			[
+				0,
+				0,
+				0,
+				10,
+				8,
+				62
+			],
+			[
+				39,
+				51,
+				101,
+				72,
+				62
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 10/2006 (230) ",
+		"rating": 230,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#180906",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#180906",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				15
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				26
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				37
+			],
+			[
+				12,
+				13,
+				23,
+				30
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 11/2006 (2450) ",
+		"rating": 2450,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#180906",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#180906",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				52
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				89
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				30
+			],
+			[
+				15,
+				34,
+				44,
+				21,
+				26,
+				31
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 213/2010 (160) #442-30558",
+		"rating": 160,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#181010",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#181010",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				43
+			],
+			[
+				7,
+				0,
+				14,
+				0,
+				33
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				24
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				36
+			],
+			[
+				30,
+				39,
+				57,
+				10
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 214/2010 (1000) #443-54088",
+		"rating": 1000,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#181010",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#181010",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				44
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				23
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				38
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				31
+			],
+			[
+				25,
+				55,
+				12,
+				44
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 215/2010 (12000) #454-79532",
+		"rating": 12000,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#181010",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#181010",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				17
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				38
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				85
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				70
+			],
+			[
+				48,
+				54,
+				30,
+				35,
+				43
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 324/2013 (50) #343-93370",
+		"rating": 50,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#190813",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#190813",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				18
+			],
+			[
+				0,
+				0,
+				0,
+				3,
+				28
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				32
+			],
+			[
+				14,
+				24,
+				32,
+				8
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 325/2013 (600) #353-21010",
+		"rating": 600,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#190813",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#190813",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				40
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				48
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				32
+			],
+			[
+				7,
+				15,
+				42,
+				24,
+				32
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 326/2013 (400) #353-6531",
+		"rating": 400,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#190813",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#190813",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				62
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				20
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				38
+			],
+			[
+				18,
+				22,
+				36,
+				29,
+				15
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 249/2011 (40) #353-50430",
+		"rating": 40,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#190911",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#190911",
+		"board": [
+			[
+				0,
+				0,
+				14,
+				15,
+				0,
+				59
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				5,
+				34
+			],
+			[
+				0,
+				4,
+				0,
+				0,
+				0,
+				27
+			],
+			[
+				12,
+				20,
+				29,
+				40,
+				19
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 250/2011 (400) #353-58480",
+		"rating": 400,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#190911",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#190911",
+		"board": [
+			[
+				5,
+				0,
+				0,
+				0,
+				0,
+				24
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				40
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				56
+			],
+			[
+				26,
+				31,
+				9,
+				17,
+				37
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 251/2011 (470) #353-79404",
+		"rating": 470,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#190911",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#190911",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				37
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				58
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				25
+			],
+			[
+				37,
+				8,
+				24,
+				21,
+				30
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 174/2009 (?) #442-23596",
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#191009",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#191009",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				28
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				32
+			],
+			[
+				0,
+				16,
+				0,
+				0,
+				37
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				39
+			],
+			[
+				42,
+				58,
+				10,
+				26
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 175/2009 (1200) #443-28876",
+		"rating": 1200,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#191009",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#191009",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				32
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				44
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				50
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				10
+			],
+			[
+				29,
+				37,
+				48,
+				22
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 176/2009 (450) #444-10872",
+		"rating": 450,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#191009",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#191009",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				40
+			],
+			[
+				0,
+				0,
+				10,
+				0,
+				47
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				17
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				32
+			],
+			[
+				42,
+				52,
+				28,
+				14
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 72/2007 (0)",
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#200807",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#200807",
+		"board": [
+			[
+				8,
+				0,
+				0,
+				0,
+				21
+			],
+			[
+				0,
+				10,
+				1,
+				0,
+				23
+			],
+			[
+				0,
+				0,
+				9,
+				11,
+				34
+			],
+			[
+				25,
+				15,
+				16,
+				22
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 73/2007 (500)",
+		"rating": 500,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#200807",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#200807",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				35
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				27
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				58
+			],
+			[
+				36,
+				7,
+				27,
+				30,
+				20
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 74/2007 (1000)",
+		"rating": 1000,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#200807",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#200807",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				14
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				24
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				45
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				53
+			],
+			[
+				20,
+				31,
+				40,
+				45
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 285/2012 (75) #443-27402",
+		"rating": 75,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#200812",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#200812",
+		"board": [
+			[
+				0,
+				0,
+				13,
+				0,
+				35
+			],
+			[
+				0,
+				14,
+				0,
+				0,
+				57
+			],
+			[
+				0,
+				0,
+				0,
+				2,
+				25
+			],
+			[
+				4,
+				0,
+				0,
+				0,
+				19
+			],
+			[
+				35,
+				31,
+				50,
+				20
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 286/2012 (60) #443-16172",
+		"rating": 60,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#200812",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#200812",
+		"board": [
+			[
+				0,
+				0,
+				7,
+				0,
+				41
+			],
+			[
+				0,
+				3,
+				0,
+				0,
+				11
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				57
+			],
+			[
+				8,
+				0,
+				0,
+				0,
+				27
+			],
+			[
+				42,
+				38,
+				24,
+				32
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 287/2012 (1400) #442-74472",
+		"rating": 1400,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#200812",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#200812",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				24
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				47
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				53
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				12
+			],
+			[
+				31,
+				43,
+				23,
+				39
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 210/2010 (70) #343-56170",
+		"rating": 70,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#200910",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#200910",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				17
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				22
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				39
+			],
+			[
+				23,
+				9,
+				17,
+				29
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 211/2010 (380) #353-10000",
+		"rating": 380,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#200910",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#200910",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				19
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				60
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				41
+			],
+			[
+				23,
+				14,
+				17,
+				35,
+				31
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 212/2010 (700) #363-66624",
+		"rating": 700,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#200910",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#200910",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				27
+			],
+			[
+				9,
+				0,
+				0,
+				0,
+				0,
+				0,
+				58
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				86
+			],
+			[
+				26,
+				35,
+				10,
+				28,
+				32,
+				40
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 135/2008 (1300) #263-72593",
+		"rating": 1300,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#201008",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#201008",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				88
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				26
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				57
+			],
+			[
+				12,
+				24,
+				39,
+				35,
+				29,
+				32
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 136/2008 (4500) #363-202020",
+		"rating": 4500,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#201008",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#201008",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				43
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				71
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				57
+			],
+			[
+				36,
+				12,
+				49,
+				26,
+				9,
+				39
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 137/2008 (1500) #364-40350",
+		"rating": 1500,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#201008",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#201008",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				89
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				50
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				32
+			],
+			[
+				36,
+				27,
+				13,
+				31,
+				43,
+				21
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 345/2014 (175) #443-50656",
+		"rating": 175,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#210714",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#210714",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				25
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				32
+			],
+			[
+				7,
+				11,
+				0,
+				0,
+				38
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				41
+			],
+			[
+				26,
+				42,
+				57,
+				11
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 346/2014 (300) #443-76427",
+		"rating": 300,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#210714",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#210714",
+		"board": [
+			[
+				9,
+				0,
+				0,
+				0,
+				26
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				12
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				54
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				44
+			],
+			[
+				45,
+				23,
+				39,
+				29
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 347/2014 (850) #443-19215",
+		"rating": 850,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#210714",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#210714",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				22
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				43
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				38
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				33
+			],
+			[
+				55,
+				22,
+				14,
+				45
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 171/2009 (10) #353-68348",
+		"rating": 10,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#210909",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#210909",
+		"board": [
+			[
+				0,
+				0,
+				8,
+				0,
+				0,
+				43
+			],
+			[
+				0,
+				0,
+				0,
+				3,
+				4,
+				16
+			],
+			[
+				0,
+				7,
+				0,
+				0,
+				0,
+				61
+			],
+			[
+				32,
+				14,
+				21,
+				25,
+				28
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 172/2009 (140) #353-1392",
+		"rating": 140,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#210909",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#210909",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				62
+			],
+			[
+				0,
+				0,
+				6,
+				0,
+				0,
+				19
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				39
+			],
+			[
+				14,
+				18,
+				33,
+				31,
+				24
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 173/2009 (420) #353-10195",
+		"rating": 420,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#210909",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#210909",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				37
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				21
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				62
+			],
+			[
+				26,
+				13,
+				17,
+				30,
+				34
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 321/2013 (1000) #443-32324",
+		"rating": 1000,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#220713",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#220713",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				34
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				23
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				29
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				50
+			],
+			[
+				32,
+				41,
+				11,
+				52
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 322/2013 (1400) #443-59825",
+		"rating": 1400,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#220713",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#220713",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				48
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				16
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				39
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				33
+			],
+			[
+				51,
+				40,
+				32,
+				13
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 323/2013 (700) #443-76875",
+		"rating": 700,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#220713",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#220713",
+		"board": [
+			[
+				15,
+				0,
+				0,
+				0,
+				50
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				47
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				13
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				26
+			],
+			[
+				46,
+				39,
+				32,
+				19
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 246/2011 (15) #443-2734",
+		"rating": 15,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#220811",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#220811",
+		"board": [
+			[
+				14,
+				0,
+				0,
+				0,
+				54
+			],
+			[
+				0,
+				2,
+				0,
+				10,
+				25
+			],
+			[
+				3,
+				0,
+				4,
+				0,
+				15
+			],
+			[
+				0,
+				0,
+				12,
+				0,
+				42
+			],
+			[
+				33,
+				18,
+				39,
+				46
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 247/2011 (470) #443-66956",
+		"rating": 470,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#220811",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#220811",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				52
+			],
+			[
+				0,
+				0,
+				13,
+				0,
+				37
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				28
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				19
+			],
+			[
+				51,
+				24,
+				43,
+				18
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 248/2011 (1100) #443-88690",
+		"rating": 1100,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#220811",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#220811",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				19
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				46
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				39
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				32
+			],
+			[
+				14,
+				53,
+				25,
+				44
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 132/2008 (90) #263-72593",
+		"rating": 90,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#220908",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#220908",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				50
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				28
+			],
+			[
+				11,
+				17,
+				14,
+				10,
+				22,
+				4
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 133/2008 (200) #273-39264",
+		"rating": 200,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#220908",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#220908",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				69
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				36
+			],
+			[
+				9,
+				15,
+				5,
+				18,
+				21,
+				12,
+				25
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 134/2008 (500) #283-67118",
+		"rating": 500,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#220908",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#220908",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				47
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				89
+			],
+			[
+				20,
+				25,
+				27,
+				4,
+				9,
+				21,
+				17,
+				13
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 54/2007 (1) ",
+		"rating": 1,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#230407",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#230407",
+		"board": [
+			[
+				1,
+				0,
+				8,
+				0,
+				41
+			],
+			[
+				0,
+				2,
+				13,
+				9,
+				43
+			],
+			[
+				7,
+				0,
+				3,
+				0,
+				37
+			],
+			[
+				0,
+				6,
+				0,
+				4,
+				37
+			],
+			[
+				10,
+				0,
+				0,
+				20,
+				52
+			],
+			[
+				48,
+				55,
+				45,
+				62
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 55/2007 (240) ",
+		"rating": 240,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#230407",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#230407",
+		"board": [
+			[
+				11,
+				0,
+				0,
+				0,
+				49
+			],
+			[
+				0,
+				0,
+				7,
+				0,
+				30
+			],
+			[
+				13,
+				12,
+				0,
+				0,
+				32
+			],
+			[
+				14,
+				9,
+				0,
+				10,
+				52
+			],
+			[
+				0,
+				0,
+				8,
+				0,
+				47
+			],
+			[
+				73,
+				43,
+				56,
+				38
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 56/2007 (?) ",
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#230407",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#230407",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				48
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				22
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				56
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				40
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				44
+			],
+			[
+				57,
+				26,
+				90,
+				37
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 69/2007 (2)",
+		"rating": 2,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#230707",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#230707",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				2,
+				0,
+				29
+			],
+			[
+				11,
+				12,
+				0,
+				0,
+				9,
+				48
+			],
+			[
+				0,
+				0,
+				8,
+				5,
+				0,
+				43
+			],
+			[
+				21,
+				31,
+				19,
+				22,
+				27
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 70/2007 (120)",
+		"rating": 120,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#230707",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#230707",
+		"board": [
+			[
+				0,
+				13,
+				0,
+				10,
+				34
+			],
+			[
+				0,
+				0,
+				11,
+				0,
+				32
+			],
+			[
+				6,
+				3,
+				0,
+				0,
+				25
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				45
+			],
+			[
+				32,
+				39,
+				24,
+				41
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 71/2007 (7300)",
+		"rating": 7300,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#230707",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#230707",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				24
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				41
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				58
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				87
+			],
+			[
+				21,
+				37,
+				42,
+				50,
+				60
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 282/2012 (75) #343-66600",
+		"rating": 75,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#230712",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#230712",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				13
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				23
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				42
+			],
+			[
+				13,
+				17,
+				26,
+				22
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 283/2012 (500) #443-76128",
+		"rating": 500,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#230712",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#230712",
+		"board": [
+			[
+				0,
+				0,
+				3,
+				0,
+				22
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				48
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				37
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				29
+			],
+			[
+				45,
+				15,
+				23,
+				53
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 284/2012 (1050) #443-27948",
+		"rating": 1050,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#230712",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#230712",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				49
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				41
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				19
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				27
+			],
+			[
+				19,
+				55,
+				38,
+				24
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 207/2010 (1200) #443-40096",
+		"rating": 1200,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#230810",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#230810",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				44
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				30
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				25
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				37
+			],
+			[
+				12,
+				24,
+				45,
+				55
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 208/2010 (1000) #443-53772",
+		"rating": 1000,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#230810",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#230810",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				45
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				24
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				30
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				37
+			],
+			[
+				43,
+				56,
+				24,
+				13
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 209/2010 (220) #443-61096",
+		"rating": 220,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#230810",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#230810",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				17
+			],
+			[
+				0,
+				3,
+				0,
+				5,
+				26
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				52
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				41
+			],
+			[
+				33,
+				20,
+				53,
+				30
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 111/2008 (45) #342-3456",
+		"rating": 45,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#240308",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#240308",
+		"board": [
+			[
+				0,
+				5,
+				0,
+				0,
+				17
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				34
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				27
+			],
+			[
+				30,
+				25,
+				7,
+				16
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 112/2008 (160) #353-23456",
+		"rating": 160,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#240308",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#240308",
+		"board": [
+			[
+				8,
+				0,
+				0,
+				0,
+				0,
+				40
+			],
+			[
+				0,
+				0,
+				2,
+				0,
+				0,
+				17
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				63
+			],
+			[
+				23,
+				33,
+				21,
+				15,
+				28
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 113/2008 (850) #364-29360",
+		"rating": 850,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#240308",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#240308",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				10,
+				0,
+				49
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				31
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				91
+			],
+			[
+				26,
+				34,
+				16,
+				43,
+				31,
+				21
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 318/2013 (30) #252-17715",
+		"rating": 30,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#240613",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#240613",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				37
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				18
+			],
+			[
+				14,
+				10,
+				4,
+				11,
+				16
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 319/2013 (50) #262-79095",
+		"rating": 50,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#240613",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#240613",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				26
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				52
+			],
+			[
+				21,
+				5,
+				15,
+				17,
+				9,
+				11
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 320/2013 (270) #272-3542",
+		"rating": 270,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#240613",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#240613",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				69
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				36
+			],
+			[
+				8,
+				22,
+				10,
+				19,
+				24,
+				7,
+				15
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 168/2009 (150) #343-90056",
+		"rating": 150,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#240809",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#240809",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				24
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				17
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				37
+			],
+			[
+				20,
+				16,
+				32,
+				10
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 169/2009 (670) #443-94656",
+		"rating": 670,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#240809",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#240809",
+		"board": [
+			[
+				0,
+				0,
+				14,
+				0,
+				45
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				33
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				20
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				38
+			],
+			[
+				28,
+				54,
+				42,
+				12
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 170/2009 (1350) #443-99072",
+		"rating": 1350,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#240809",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#240809",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				33
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				48
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				42
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				13
+			],
+			[
+				28,
+				49,
+				42,
+				17
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 93/2007 (790)  (# 352-23850, 2 swaps)",
+		"rating": 790,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#241207",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#241207",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				26
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				35
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				59
+			],
+			[
+				12,
+				15,
+				24,
+				31,
+				38
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 94/2007 (90) (# 344-93418, 4 swaps)",
+		"rating": 90,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#241207",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#241207",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				14
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				27
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				37
+			],
+			[
+				10,
+				16,
+				22,
+				30
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 95/2007 (790) (# 445-78856, 5 swaps)",
+		"rating": 790,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#241207",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#241207",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				22
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				27
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				32
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				55
+			],
+			[
+				16,
+				30,
+				38,
+				52
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 105/2008 (160) #443-60810",
+		"rating": 160,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#250208",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#250208",
+		"board": [
+			[
+				0,
+				6,
+				0,
+				0,
+				36
+			],
+			[
+				0,
+				0,
+				0,
+				7,
+				46
+			],
+			[
+				0,
+				2,
+				0,
+				0,
+				24
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				30
+			],
+			[
+				55,
+				19,
+				45,
+				17
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 106/2008 (320) #443-16030",
+		"rating": 320,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#250208",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#250208",
+		"board": [
+			[
+				0,
+				0,
+				3,
+				0,
+				20
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				37
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				56
+			],
+			[
+				0,
+				2,
+				0,
+				0,
+				23
+			],
+			[
+				50,
+				20,
+				28,
+				38
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 107/2008 (500) #443-920",
+		"rating": 500,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#250208",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#250208",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				13
+			],
+			[
+				0,
+				0,
+				0,
+				13,
+				55
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				43
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				25
+			],
+			[
+				39,
+				21,
+				44,
+				32
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 279/2012 (260) #352-85554",
+		"rating": 260,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#250612",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#250612",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				16
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				41
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				63
+			],
+			[
+				33,
+				24,
+				16,
+				27,
+				20
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 280/2012 (720) #353-71046",
+		"rating": 720,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#250612",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#250612",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				47
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				32
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				41
+			],
+			[
+				35,
+				40,
+				7,
+				24,
+				14
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 281/2012 (150) #353-43158",
+		"rating": 150,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#250612",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#250612",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				20
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				37
+			],
+			[
+				0,
+				0,
+				11,
+				0,
+				0,
+				63
+			],
+			[
+				25,
+				34,
+				15,
+				29,
+				17
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 243/2011 (30) #252-40772",
+		"rating": 30,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#250711",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#250711",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				32
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				23
+			],
+			[
+				6,
+				12,
+				19,
+				4,
+				14
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 244/2011 (150) #263-67360",
+		"rating": 150,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#250711",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#250711",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				33
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				45
+			],
+			[
+				15,
+				10,
+				20,
+				7,
+				22,
+				4
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 245/2011 (300) #273-75790",
+		"rating": 300,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#250711",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#250711",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				62
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				43
+			],
+			[
+				21,
+				9,
+				5,
+				27,
+				19,
+				17,
+				7
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 129/2008 (30) #342-2",
+		"rating": 30,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#250808",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#250808",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				21
+			],
+			[
+				0,
+				3,
+				12,
+				0,
+				30
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				27
+			],
+			[
+				25,
+				6,
+				32,
+				15
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 130/2008 (500) #353-53264",
+		"rating": 500,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#250808",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#250808",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				33
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				38
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				49
+			],
+			[
+				42,
+				31,
+				6,
+				24,
+				17
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 131/2008 (1000) #364-36680",
+		"rating": 1000,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#250808",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#250808",
+		"board": [
+			[
+				3,
+				0,
+				0,
+				0,
+				0,
+				0,
+				28
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				53
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				90
+			],
+			[
+				26,
+				42,
+				22,
+				16,
+				29,
+				36
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 42/2007 (5) ",
+		"rating": 5,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#260207",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#260207",
+		"board": [
+			[
+				0,
+				0,
+				8,
+				9,
+				39
+			],
+			[
+				7,
+				4,
+				0,
+				0,
+				25
+			],
+			[
+				0,
+				0,
+				13,
+				3,
+				45
+			],
+			[
+				0,
+				0,
+				11,
+				0,
+				27
+			],
+			[
+				28,
+				40,
+				44,
+				24
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 43/2007 (780) ",
+		"rating": 780,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#260207",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#260207",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				31
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				40
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				49
+			],
+			[
+				7,
+				15,
+				24,
+				34,
+				40
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 44/2007 (?) ",
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#260207",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#260207",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				43
+			],
+			[
+				0,
+				0,
+				6,
+				9,
+				0,
+				37
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				1,
+				56
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				74
+			],
+			[
+				17,
+				53,
+				45,
+				57,
+				38
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 48/2007 (1) ",
+		"rating": 1,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#260307",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#260307",
+		"board": [
+			[
+				1,
+				0,
+				0,
+				25,
+				13,
+				57
+			],
+			[
+				2,
+				0,
+				8,
+				0,
+				21,
+				63
+			],
+			[
+				0,
+				16,
+				23,
+				6,
+				0,
+				67
+			],
+			[
+				0,
+				10,
+				19,
+				0,
+				9,
+				56
+			],
+			[
+				5,
+				22,
+				0,
+				17,
+				0,
+				82
+			],
+			[
+				15,
+				79,
+				71,
+				75,
+				85
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 49/2007 (220) ",
+		"rating": 220,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#260307",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#260307",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				30
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				48
+			],
+			[
+				3,
+				10,
+				11,
+				16,
+				18,
+				20
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 50/2007 (310) ",
+		"rating": 310,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#260307",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#260307",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				35
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				70
+			],
+			[
+				7,
+				11,
+				12,
+				13,
+				16,
+				20,
+				26
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 342/2014 (120) #343-49134",
+		"rating": 120,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#260514",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#260514",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				17
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				34
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				27
+			],
+			[
+				20,
+				33,
+				9,
+				16
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 343/2014 (120) #353-97977",
+		"rating": 120,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#260514",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#260514",
+		"board": [
+			[
+				4,
+				0,
+				0,
+				0,
+				0,
+				39
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				20
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				61
+			],
+			[
+				13,
+				29,
+				36,
+				19,
+				23
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 344/2014 (650) #363-44141",
+		"rating": 650,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#260514",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#260514",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				82
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				26
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				7,
+				63
+			],
+			[
+				18,
+				25,
+				46,
+				34,
+				31,
+				17
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 204/2010 (30) #252-48015",
+		"rating": 30,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#260710",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#260710",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				20
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				35
+			],
+			[
+				10,
+				9,
+				18,
+				14,
+				4
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 205/2010 (40) #262-5380",
+		"rating": 40,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#260710",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#260710",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				22
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				56
+			],
+			[
+				8,
+				14,
+				16,
+				12,
+				9,
+				19
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 206/2010 (210) #273-73490",
+		"rating": 210,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#260710",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#260710",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				33
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				72
+			],
+			[
+				21,
+				7,
+				14,
+				24,
+				9,
+				17,
+				13
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 87/2007 (120)",
+		"rating": 120,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#261107",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#261107",
+		"board": [
+			[
+				6,
+				0,
+				0,
+				0,
+				23
+			],
+			[
+				0,
+				7,
+				0,
+				0,
+				33
+			],
+			[
+				0,
+				0,
+				0,
+				9,
+				41
+			],
+			[
+				4,
+				0,
+				0,
+				8,
+				39
+			],
+			[
+				35,
+				36,
+				40,
+				25
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 88/2007 (400)",
+		"rating": 400,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#261107",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#261107",
+		"board": [
+			[
+				0,
+				2,
+				0,
+				0,
+				45
+			],
+			[
+				5,
+				0,
+				0,
+				4,
+				33
+			],
+			[
+				6,
+				0,
+				1,
+				0,
+				26
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				32
+			],
+			[
+				37,
+				33,
+				35,
+				31
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 89/2007 (1500)",
+		"rating": 1500,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#261107",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#261107",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				13
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				37
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				41
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				45
+			],
+			[
+				17,
+				28,
+				39,
+				52
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 315/2013 (300) #353-80360",
+		"rating": 300,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#270513",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#270513",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				17
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				42
+			],
+			[
+				0,
+				14,
+				0,
+				0,
+				0,
+				61
+			],
+			[
+				20,
+				30,
+				32,
+				25,
+				13
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 316/2013 (400) #353-49966",
+		"rating": 400,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#270513",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#270513",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				24
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				35
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				61
+			],
+			[
+				24,
+				19,
+				29,
+				11,
+				37
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 317/2013 (330) #353-38141",
+		"rating": 330,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#270513",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#270513",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				18
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				38
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				64
+			],
+			[
+				28,
+				20,
+				15,
+				24,
+				33
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 240/2011 (400) #353-20228",
+		"rating": 400,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#270611",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#270611",
+		"board": [
+			[
+				0,
+				3,
+				0,
+				0,
+				0,
+				24
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				56
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				40
+			],
+			[
+				9,
+				17,
+				37,
+				26,
+				31
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 241/2011 (700) #353-29774",
+		"rating": 700,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#270611",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#270611",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				50
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				41
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				29
+			],
+			[
+				22,
+				10,
+				32,
+				42,
+				14
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 242/2011 (700) #353-63562",
+		"rating": 700,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#270611",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#270611",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				62
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				34
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				24
+			],
+			[
+				24,
+				19,
+				12,
+				28,
+				37
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 165/2009 (1200)",
+		"rating": 1200,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#270709",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#270709",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				49
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				23
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				34
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				30
+			],
+			[
+				40,
+				52,
+				10,
+				34
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 166/2009 (450) #442-28450",
+		"rating": 450,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#270709",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#270709",
+		"board": [
+			[
+				5,
+				0,
+				0,
+				0,
+				14
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				45
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				55
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				22
+			],
+			[
+				43,
+				29,
+				24,
+				40
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 167/2009 (350) #443-35562",
+		"rating": 350,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#270709",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#270709",
+		"board": [
+			[
+				9,
+				0,
+				0,
+				0,
+				27
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				54
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				44
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				11
+			],
+			[
+				40,
+				43,
+				30,
+				23
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 24/2006 (0) ",
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#271106",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#271106",
+		"board": [
+			[
+				15,
+				4,
+				0,
+				3,
+				28
+			],
+			[
+				0,
+				0,
+				2,
+				10,
+				24
+			],
+			[
+				0,
+				11,
+				0,
+				0,
+				44
+			],
+			[
+				13,
+				0,
+				14,
+				1,
+				40
+			],
+			[
+				43,
+				32,
+				38,
+				23
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 25/2006 (170) ",
+		"rating": 170,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#271106",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#271106",
+		"board": [
+			[
+				4,
+				0,
+				33,
+				0,
+				0,
+				8,
+				109
+			],
+			[
+				0,
+				10,
+				0,
+				35,
+				2,
+				0,
+				93
+			],
+			[
+				29,
+				0,
+				28,
+				5,
+				7,
+				0,
+				114
+			],
+			[
+				0,
+				14,
+				26,
+				18,
+				0,
+				20,
+				114
+			],
+			[
+				30,
+				22,
+				16,
+				0,
+				11,
+				0,
+				127
+			],
+			[
+				6,
+				17,
+				0,
+				31,
+				0,
+				19,
+				109
+			],
+			[
+				84,
+				103,
+				127,
+				115,
+				101,
+				136
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 26/2006 (185) ",
+		"rating": 185,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#271106",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#271106",
+		"board": [
+			[
+				8,
+				0,
+				0,
+				0,
+				26
+			],
+			[
+				0,
+				13,
+				0,
+				0,
+				32
+			],
+			[
+				0,
+				0,
+				1,
+				0,
+				34
+			],
+			[
+				0,
+				0,
+				0,
+				14,
+				44
+			],
+			[
+				50,
+				40,
+				14,
+				32
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 99/2008 (220) # 343-91996",
+		"rating": 220,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#280108",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#280108",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				17
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				37
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				24
+			],
+			[
+				24,
+				17,
+				8,
+				29
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 100/2008 (630) # 353-54022",
+		"rating": 630,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#280108",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#280108",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				58
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				36
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				26
+			],
+			[
+				25,
+				7,
+				32,
+				21,
+				35
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 101/2008 (2000) # 363-36168",
+		"rating": 2000,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#280108",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#280108",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				88
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				47
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				36
+			],
+			[
+				25,
+				12,
+				21,
+				39,
+				31,
+				43
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 60/2007 (10)",
+		"rating": 10,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#280507",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#280507",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				15
+			],
+			[
+				0,
+				2,
+				0,
+				16
+			],
+			[
+				1,
+				0,
+				0,
+				14
+			],
+			[
+				14,
+				18,
+				13
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 61/2007 (425)",
+		"rating": 425,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#280507",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#280507",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				20
+			],
+			[
+				0,
+				0,
+				0,
+				13,
+				47
+			],
+			[
+				14,
+				0,
+				12,
+				0,
+				33
+			],
+			[
+				0,
+				7,
+				0,
+				0,
+				36
+			],
+			[
+				42,
+				30,
+				29,
+				35
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 62/2007 (200 after solving the hint)",
+		"rating": 200,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#280507",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#280507",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				37
+			],
+			[
+				0,
+				0,
+				4,
+				0,
+				0,
+				53
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				55
+			],
+			[
+				10,
+				3,
+				0,
+				0,
+				0,
+				65
+			],
+			[
+				31,
+				42,
+				38,
+				31,
+				68
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 276/2012 (30) #252-90033",
+		"rating": 30,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#280512",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#280512",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				37
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				18
+			],
+			[
+				16,
+				10,
+				4,
+				11,
+				14
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 277/2012 (40) #262-60228",
+		"rating": 40,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#280512",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#280512",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				22
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				56
+			],
+			[
+				7,
+				18,
+				10,
+				16,
+				12,
+				15
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 278/2012 (400) #272-80669",
+		"rating": 400,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#280512",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#280512",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				42
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				63
+			],
+			[
+				10,
+				7,
+				17,
+				22,
+				20,
+				4,
+				25
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 36/2007 (25) ",
+		"rating": 25,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#290107",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#290107",
+		"board": [
+			[
+				10,
+				17,
+				20,
+				0,
+				0,
+				57
+			],
+			[
+				19,
+				0,
+				0,
+				14,
+				0,
+				46
+			],
+			[
+				0,
+				11,
+				12,
+				0,
+				15,
+				50
+			],
+			[
+				16,
+				0,
+				18,
+				0,
+				13,
+				57
+			],
+			[
+				48,
+				39,
+				51,
+				31,
+				41
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 37/2007 (110) ",
+		"rating": 110,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#290107",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#290107",
+		"board": [
+			[
+				11,
+				0,
+				10,
+				0,
+				6,
+				20,
+				111
+			],
+			[
+				7,
+				8,
+				0,
+				15,
+				0,
+				26,
+				89
+			],
+			[
+				16,
+				25,
+				0,
+				27,
+				19,
+				12,
+				127
+			],
+			[
+				0,
+				0,
+				13,
+				22,
+				0,
+				0,
+				115
+			],
+			[
+				0,
+				23,
+				0,
+				24,
+				21,
+				0,
+				134
+			],
+			[
+				18,
+				0,
+				17,
+				0,
+				0,
+				14,
+				90
+			],
+			[
+				111,
+				102,
+				103,
+				121,
+				149,
+				80
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 38/2007 (310) ",
+		"rating": 310,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#290107",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#290107",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				38
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				27
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				57
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				88
+			],
+			[
+				42,
+				21,
+				37,
+				50,
+				60
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 312/2013 (15) #343-32074",
+		"rating": 15,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#290413",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#290413",
+		"board": [
+			[
+				0,
+				0,
+				9,
+				0,
+				39
+			],
+			[
+				0,
+				10,
+				0,
+				0,
+				23
+			],
+			[
+				5,
+				0,
+				0,
+				0,
+				16
+			],
+			[
+				23,
+				29,
+				15,
+				11
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 313/2013 (60) #343-55258",
+		"rating": 60,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#290413",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#290413",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				16
+			],
+			[
+				0,
+				0,
+				0,
+				3,
+				25
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				37
+			],
+			[
+				29,
+				18,
+				23,
+				8
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 314/2013 (140) #343-59860",
+		"rating": 140,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#290413",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#290413",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				26
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				38
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				14
+			],
+			[
+				18,
+				23,
+				28,
+				9
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 162/2009 (400) #353-66530",
+		"rating": 400,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#290609",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#290609",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				56
+			],
+			[
+				5,
+				0,
+				0,
+				0,
+				0,
+				28
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				36
+			],
+			[
+				21,
+				16,
+				40,
+				11,
+				32
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 163/2009 (7000) #453-99642",
+		"rating": 7000,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#290609",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#290609",
+		"board": [
+			[
+				17,
+				0,
+				0,
+				0,
+				0,
+				66
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				58
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				50
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				36
+			],
+			[
+				58,
+				69,
+				26,
+				11,
+				46
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 164/2009 (3000) #453-78482",
+		"rating": 3000,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#290609",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#290609",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				19
+			],
+			[
+				20,
+				0,
+				0,
+				0,
+				0,
+				81
+			],
+			[
+				0,
+				0,
+				12,
+				0,
+				0,
+				65
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				45
+			],
+			[
+				56,
+				19,
+				37,
+				52,
+				46
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 81/2007 (50)",
+		"rating": 50,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#291007",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#291007",
+		"board": [
+			[
+				0,
+				0,
+				3,
+				0,
+				19,
+				0,
+				0,
+				74
+			],
+			[
+				14,
+				0,
+				13,
+				20,
+				0,
+				16,
+				0,
+				76
+			],
+			[
+				2,
+				21,
+				0,
+				0,
+				0,
+				0,
+				18,
+				81
+			],
+			[
+				27,
+				34,
+				26,
+				33,
+				39,
+				30,
+				42
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 82/2007 (400)",
+		"rating": 400,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#291007",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#291007",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				9,
+				0,
+				11,
+				0,
+				78
+			],
+			[
+				13,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				81
+			],
+			[
+				0,
+				17,
+				4,
+				0,
+				10,
+				0,
+				12,
+				72
+			],
+			[
+				35,
+				39,
+				43,
+				25,
+				37,
+				19,
+				33
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 83/2007 (20000)",
+		"rating": 20000,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#291007",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#291007",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				50
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				67
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				114
+			],
+			[
+				12,
+				17,
+				28,
+				37,
+				40,
+				45,
+				52
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 273/2012 (700) #443-46030",
+		"rating": 700,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#300412",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#300412",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				38
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				11
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				29
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				58
+			],
+			[
+				43,
+				32,
+				24,
+				37
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 274/2012 (730) #443-69060",
+		"rating": 730,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#300412",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#300412",
+		"board": [
+			[
+				0,
+				2,
+				0,
+				0,
+				18
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				47
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				39
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				32
+			],
+			[
+				43,
+				16,
+				53,
+				24
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 275/2012 (380) #443-31580",
+		"rating": 380,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#300412",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#300412",
+		"board": [
+			[
+				0,
+				0,
+				12,
+				0,
+				52
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				42
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				15
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				27
+			],
+			[
+				40,
+				17,
+				31,
+				48
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 237/2011 (240) #443-86034",
+		"rating": 240,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#300511",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#300511",
+		"board": [
+			[
+				11,
+				0,
+				0,
+				0,
+				54
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				11
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				28
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				43
+			],
+			[
+				23,
+				46,
+				37,
+				30
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 238/2011 (580) #443-97080",
+		"rating": 580,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#300511",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#300511",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				38
+			],
+			[
+				13,
+				0,
+				0,
+				0,
+				28
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				19
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				51
+			],
+			[
+				56,
+				34,
+				26,
+				20
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 239/2011 (10000) #453-14994",
+		"rating": 10000,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#300511",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#300511",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				38
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				63
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				83
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				26
+			],
+			[
+				42,
+				51,
+				63,
+				21,
+				33
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 123/2008 (0) #253-61188",
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#300608",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#300608",
+		"board": [
+			[
+				0,
+				0,
+				4,
+				0,
+				6,
+				29
+			],
+			[
+				0,
+				1,
+				0,
+				0,
+				0,
+				26
+			],
+			[
+				19,
+				4,
+				6,
+				15,
+				11
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 124/2008 (25) #264-8442",
+		"rating": 25,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#300608",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#300608",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				9,
+				35
+			],
+			[
+				12,
+				0,
+				0,
+				0,
+				0,
+				0,
+				43
+			],
+			[
+				23,
+				14,
+				11,
+				3,
+				8,
+				19
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 125/2008 (70) #274-92586",
+		"rating": 70,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#300608",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#300608",
+		"board": [
+			[
+				0,
+				6,
+				0,
+				0,
+				0,
+				0,
+				0,
+				34
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				71
+			],
+			[
+				20,
+				18,
+				25,
+				9,
+				14,
+				8,
+				11
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 18/2006 (50) ",
+		"rating": 50,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#301006",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#301006",
+		"board": [
+			[
+				17,
+				0,
+				0,
+				0,
+				14,
+				0,
+				60
+			],
+			[
+				0,
+				6,
+				0,
+				2,
+				0,
+				15,
+				47
+			],
+			[
+				4,
+				0,
+				12,
+				0,
+				0,
+				0,
+				64
+			],
+			[
+				32,
+				27,
+				26,
+				31,
+				29,
+				26
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 19/2006 (460) ",
+		"rating": 460,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#301006",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#301006",
+		"board": [
+			[
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				36
+			],
+			[
+				2,
+				0,
+				0,
+				0,
+				0,
+				17,
+				53
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				18,
+				82
+			],
+			[
+				13,
+				21,
+				25,
+				29,
+				32,
+				51
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 20/2006 (1850) ",
+		"rating": 1850,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#301006",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#301006",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				25
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				61
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				0,
+				85
+			],
+			[
+				13,
+				22,
+				27,
+				32,
+				37,
+				40
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 339/2014 (200) #353-62535",
+		"rating": 200,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#310314",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#310314",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				58
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				39
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				7,
+				23
+			],
+			[
+				21,
+				8,
+				35,
+				25,
+				31
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 340/2014 (350) #353-75382",
+		"rating": 350,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#310314",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#310314",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				39
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				19
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				62
+			],
+			[
+				20,
+				29,
+				12,
+				33,
+				26
+			]
+		]
+	},
+	{
+		"name": "Survo puzzle 341/2014 (230) #353-10006",
+		"rating": 230,
+		"puzzleUrl": "http://www.survo.fi/puzzles/index.html#310314",
+		"solutionUrl": "http://www.survo.fi/puzzles/solutions.html#310314",
+		"board": [
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				25
+			],
+			[
+				6,
+				0,
+				0,
+				0,
+				0,
+				44
+			],
+			[
+				0,
+				0,
+				0,
+				0,
+				0,
+				51
+			],
+			[
+				14,
+				10,
+				33,
+				39,
+				24
+			]
+		]
+	}
+]

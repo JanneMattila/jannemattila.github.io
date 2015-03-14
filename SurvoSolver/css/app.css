@@ -1,0 +1,36 @@
+﻿body {
+    font-family: 'Segoe UI', sans-serif;
+    margin: 4px;
+    color: #fff;
+    background-color: #000;
+    width: 80%;
+}
+
+a {
+    color: #00b7ff;
+}
+
+#boardCanvas {
+    -ms-touch-action: none;
+    touch-action: none;
+}
+
+h1, h2, h3, h4 {
+    margin: 4px;
+}
+
+h4 {
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+p {
+    margin-left: 4px;
+    margin-top: 0;
+    margin-bottom: 4px;
+}
+
+ul {
+    padding-left: 20px;
+    margin-top: 0;
+}
