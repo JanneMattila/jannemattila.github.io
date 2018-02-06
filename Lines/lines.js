@@ -1,4 +1,3 @@
-var lineLength = 4;
 var point = /** @class */ (function () {
     function point(x, y) {
         this.x = x || 0;
@@ -18,8 +17,10 @@ var lines = /** @class */ (function () {
         var _this = this;
         this.board = [];
         this.points = 0;
-        this.xSize = 14;
-        this.ySize = 14;
+        this.lineLength = 3;
+        this.xSize = 11;
+        this.ySize = 11;
+        this.originalSize = 11;
         this.emptyScreenSpace = 40;
         this.radius = 5;
         this.canvas = canvas;
@@ -34,13 +35,21 @@ var lines = /** @class */ (function () {
         this.canvas.addEventListener('mousemove', function (event) {
             _this.draw(event);
         });
-        this.init();
     }
-    lines.prototype.init = function () {
+    lines.prototype.init = function (boardSize) {
         this.points = 0;
         this.setPoints();
         this.lines = [];
         this.selection = null;
+        if (boardSize == "#13x13") {
+            this.lineLength = 3;
+            this.originalSize = this.ySize = this.xSize = 11;
+        }
+        else {
+            this.lineLength = 4;
+            this.originalSize = this.ySize = this.xSize = 14;
+        }
+        this.board = [];
         for (var i = 0; i < this.xSize; i++) {
             this.board[i] = new Int8Array(this.ySize);
         }
@@ -50,10 +59,14 @@ var lines = /** @class */ (function () {
             }
         }
         var location = 2;
-        for (var x = 0; x < 10; x++) {
-            for (var y = 0; y < 10; y++) {
-                if ((x < 3 && y < 3) || (x < 3 && y > 6) ||
-                    (x > 6 && y < 3) || (x > 6 && y > 6)) {
+        var size = this.lineLength * 2 + location;
+        var cornerLower = this.lineLength - 1;
+        var cornerUpper = (this.lineLength - 1) * 2;
+        var range = cornerLower + cornerUpper + 1;
+        for (var x = 0; x < range; x++) {
+            for (var y = 0; y < range; y++) {
+                if ((x < cornerLower && y < cornerLower) || (x < cornerLower && y > cornerUpper) ||
+                    (x > cornerUpper && y < cornerLower) || (x > cornerUpper && y > cornerUpper)) {
                     continue;
                 }
                 this.board[x + location][y + location] = 1;
@@ -122,18 +135,18 @@ var lines = /** @class */ (function () {
                 var yEnd = y;
                 var xDelta = xEnd - xStart;
                 var yDelta = yEnd - yStart;
-                var xStep = xDelta / lineLength;
-                var yStep = yDelta / lineLength;
+                var xStep = xDelta / this.lineLength;
+                var yStep = yDelta / this.lineLength;
                 var validMove = false;
-                if (Math.abs(xDelta) == 0 && Math.abs(yDelta) == lineLength ||
-                    Math.abs(xDelta) == lineLength && Math.abs(yDelta) == 0 ||
-                    Math.abs(xDelta) == lineLength && Math.abs(yDelta) == lineLength) {
+                if (Math.abs(xDelta) == 0 && Math.abs(yDelta) == this.lineLength ||
+                    Math.abs(xDelta) == this.lineLength && Math.abs(yDelta) == 0 ||
+                    Math.abs(xDelta) == this.lineLength && Math.abs(yDelta) == this.lineLength) {
                     // Correct selection.
                     var xc = xStart;
                     var yc = yStart;
                     // Calculate if there are more than 1 empty
                     var empties = 0;
-                    for (var i = 0; i <= lineLength; i++) {
+                    for (var i = 0; i <= this.lineLength; i++) {
                         if (this.board[xc][yc] == 0) {
                             empties++;
                         }
@@ -159,7 +172,7 @@ var lines = /** @class */ (function () {
                 if (validMove) {
                     var xc = xStart;
                     var yc = yStart;
-                    for (var i = 0; i <= lineLength; i++) {
+                    for (var i = 0; i <= this.lineLength; i++) {
                         this.board[xc][yc] = 1;
                         xc += xStep;
                         yc += yStep;
@@ -185,7 +198,7 @@ var lines = /** @class */ (function () {
                         this.resize(1, 0, 0, 0);
                     }
                     this.selection = null;
-                    window.appInsights.trackEvent("AddLine", { points: this.points });
+                    window.appInsights.trackEvent("AddLine", { points: this.points, size: this.originalSize });
                 }
                 else {
                     this.selection = new point(x, y);
@@ -199,11 +212,11 @@ var lines = /** @class */ (function () {
         //console.log("keypress: " + evt.charCode);
     };
     lines.prototype.isPointInsideLine = function (l1, l2, t1, t2) {
-        var xStep = (l2.x - l1.x) / lineLength;
-        var yStep = (l2.y - l1.y) / lineLength;
+        var xStep = (l2.x - l1.x) / this.lineLength;
+        var yStep = (l2.y - l1.y) / this.lineLength;
         var xc = l1.x;
         var yc = l1.y;
-        for (var i = 0; i <= lineLength; i++) {
+        for (var i = 0; i <= this.lineLength; i++) {
             if (xc == t1.x && yc == t1.y) {
                 // This point is in the line. But is that line for same direction.
                 var deltaLX = l1.x - l2.x;
@@ -261,5 +274,5 @@ var lines = /** @class */ (function () {
     return lines;
 }());
 var l = new lines(document.getElementById("canvas"));
-l.init();
+l.init(document.location.hash);
 //# sourceMappingURL=lines.js.map
