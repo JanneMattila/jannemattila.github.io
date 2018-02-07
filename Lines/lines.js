@@ -123,6 +123,11 @@ var lines = /** @class */ (function () {
         if (pos != null) {
             var x = Math.floor((this.radius + pos.x) / this.emptyScreenSpace + 0.5);
             var y = Math.floor((this.radius + pos.y) / this.emptyScreenSpace + 0.5);
+            if (x < 0 || y < 0 ||
+                x >= this.xSize || y >= this.ySize) {
+                // Out of bounds.
+                return;
+            }
             if (this.selection == null) {
                 this.selection = new point(x, y);
                 this.board[x][y] = this.board[x][y] | 4;
