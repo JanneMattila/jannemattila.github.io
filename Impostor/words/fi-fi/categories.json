@@ -1,0 +1,9 @@
+[
+  { "category": "Helpot sanat", "file": "words-easy.json" },
+  { "category": "Ruoka ja juoma", "file": "words-food.json" },
+  { "category": "Paikat ja matkailu", "file": "words-places.json" },
+  { "category": "Luonto ja eläimet", "file": "words-nature.json" },
+  { "category": "Tekniikka ja keksinnöt", "file": "words-tech.json" },
+  { "category": "Harrastukset ja pelit", "file": "words-hobbies.json" },
+  { "category": "Ammatit ja roolit", "file": "words-jobs.json" }
+]

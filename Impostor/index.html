@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="fi">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Huijari-peli</title>
+	<link rel="stylesheet" href="css/site.css">
+</head>
+<body>
+	<main class="page">
+		<header class="page__header">
+			<div class="title-group">
+				<h1 id="appTitle" class="clickable-title">Huijari-peli</h1>
+			</div>
+		</header>
+
+		<section class="panel" id="setupSection">
+			<h2>Asetukset</h2>
+			<form id="setupForm" class="form">
+				<div class="field-group">
+					<label for="playerCount">Pelaajien määrä</label>
+					<input id="playerCount" name="playerCount" type="number" min="2" max="20" value="6" required>
+					<small>2–20 pelaajaa</small>
+				</div>
+
+				<div class="field-group">
+					<label for="impostorCount">Huijareiden määrä</label>
+					<input id="impostorCount" name="impostorCount" type="number" min="1" max="5" value="1" required>
+					<small>1–5 huijaria (ei saa ylittää pelaajia)</small>
+				</div>
+
+				<div class="field-group inline">
+					<input id="useHint" name="useHint" type="checkbox">
+					<label for="useHint">Näytä vihje huijareille</label>
+				</div>
+
+				<div class="field-group">
+					<div class="label-row">
+						<label>Kategoriat</label>
+						<small>Valitse vähintään yksi ("Helpot sanat" oletuksena)</small>
+					</div>
+					<div id="categoryList" class="category-list" aria-live="polite"></div>
+				</div>
+
+				<div id="errorBox" class="error" role="alert" aria-live="assertive"></div>
+
+				<div class="actions">
+					<button type="submit" class="btn btn-primary" id="startButton">Aloita peli</button>
+				</div>
+			</form>
+		</section>
+
+		<section class="panel hidden" id="cardSection">
+			<div class="panel__header">
+				<h2 class="muted" id="playerProgress"></h2>
+			</div>
+
+			<div class="card" id="card" aria-live="polite">
+				<div class="card__inner" id="cardInner">
+					<div class="card__face card__face--front" id="cardFront">
+						<p class="card__player" id="cardPlayerFront"></p>
+						<p class="card__front-main" id="cardFrontMain">Korttia ei ole vielä käännetty</p>
+						<p class="card__front-sub" id="cardFrontSub"></p>
+					</div>
+					<div class="card__face card__face--back">
+						<p class="card__player" id="cardPlayer"></p>
+						<p class="card__role" id="cardRole"></p>
+						<p class="card__word" id="cardWord"></p>
+						<p class="card__hint hidden" id="cardHint"></p>
+					</div>
+				</div>
+			</div>
+
+			<div class="actions">
+				<button type="button" class="btn btn-primary hidden" id="nextButton" disabled>Seuraava pelaaja</button>
+			</div>
+		</section>
+	</main>
+
+	<script src="js/site.js"></script>
+</body>
+</html>
