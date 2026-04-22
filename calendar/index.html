@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Countdown Calendar</title>
+<style>
+  :root {
+    --bg: #f7f7fa;
+    --fg: #222;
+    --muted: #888;
+    --cell-bg: #fff;
+    --cell-border: #e2e2e8;
+    --weekend: #eef3ff;
+    --weekend-fg: #2a4a8a;
+    --milestone: #e53935;
+    --milestone-fg: #fff;
+    --pre-strong: #ffb300;
+    --pre-soft: #ffe28a;
+    --header-bg: #f0f0f5;
+  }
+
+  * { box-sizing: border-box; }
+
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: var(--bg);
+    color: var(--fg);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  .wrap {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: clamp(8px, 2vw, 24px);
+  }
+
+  .countdown {
+    text-align: center;
+    padding: clamp(16px, 4vw, 28px) 12px;
+    margin-bottom: clamp(12px, 2vw, 20px);
+    background: linear-gradient(135deg, #e53935, #c62828);
+    color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.08);
+  }
+
+  .countdown .num {
+    font-size: clamp(2.4rem, 10vw, 4.5rem);
+    font-weight: 800;
+    line-height: 1;
+    display: block;
+  }
+
+  .countdown .label {
+    font-size: clamp(0.85rem, 2.6vw, 1.1rem);
+    margin-top: 6px;
+    opacity: 0.95;
+  }
+
+  .calendar {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 4px;
+    background: var(--cell-border);
+    padding: 4px;
+    border-radius: 10px;
+  }
+
+  .dow {
+    background: var(--header-bg);
+    text-align: center;
+    font-weight: 600;
+    font-size: clamp(0.7rem, 2.2vw, 0.95rem);
+    padding: 8px 2px;
+    border-radius: 6px;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+
+  .day {
+    background: var(--cell-bg);
+    aspect-ratio: 1 / 1;
+    border-radius: 6px;
+    padding: 4px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: clamp(0.85rem, 2.8vw, 1.05rem);
+    position: relative;
+    overflow: hidden;
+  }
+
+  .day .num {
+    font-weight: 600;
+    font-size: clamp(0.95rem, 3.2vw, 1.25rem);
+  }
+
+  .day .mon {
+    font-size: clamp(0.6rem, 1.8vw, 0.75rem);
+    color: var(--muted);
+    margin-top: auto;
+    align-self: flex-end;
+  }
+
+  .day.other-month { opacity: 0.35; }
+  .day.past {
+    background: #ececf0 !important;
+    color: #b0b0b8 !important;
+    text-decoration: line-through;
+  }
+  .day.past .mon { color: #b0b0b8 !important; }
+  .day.weekend { background: var(--weekend); color: var(--weekend-fg); }
+  .day.pre-soft { background: var(--pre-soft); color: #5a3b00; }
+  .day.pre-strong { background: var(--pre-strong); color: #3a2600; }
+  .day.milestone {
+    background: var(--milestone);
+    color: var(--milestone-fg);
+    font-weight: 700;
+  }
+  .day.milestone .mon { color: rgba(255,255,255,0.85); }
+  .day.today {
+    outline: 3px solid #1976d2;
+    outline-offset: -3px;
+  }
+
+  .day { cursor: pointer; user-select: none; -webkit-tap-highlight-color: transparent; }
+  .day:active { transform: scale(0.96); }
+
+  .flash {
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%) scale(0.8);
+    background: rgba(33, 33, 33, 0.92);
+    color: #fff;
+    padding: 18px 26px;
+    border-radius: 12px;
+    font-size: clamp(1rem, 4vw, 1.4rem);
+    font-weight: 600;
+    text-align: center;
+    box-shadow: 0 8px 28px rgba(0,0,0,0.3);
+    pointer-events: none;
+    opacity: 0;
+    z-index: 1000;
+    max-width: 80vw;
+  }
+  .flash.show {
+    animation: flashPop 1.6s ease-out forwards;
+  }
+  @keyframes flashPop {
+    0%   { opacity: 0; transform: translate(-50%, -50%) scale(0.8); }
+    15%  { opacity: 1; transform: translate(-50%, -50%) scale(1.05); }
+    25%  { transform: translate(-50%, -50%) scale(1); }
+    75%  { opacity: 1; transform: translate(-50%, -50%) scale(1); }
+    100% { opacity: 0; transform: translate(-50%, -50%) scale(0.95); }
+  }
+
+  @media (max-width: 420px) {
+    .day { padding: 2px; }
+    .day .mon { display: none; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap" id="root"></div>
+
+<script>
+(function () {
+  const root = document.getElementById('root');
+
+  const MS_PER_DAY = 86400000;
+  const today = new Date();
+  today.setHours(0, 0, 0, 0);
+
+  const milestone1 = new Date(2026, 5, 1);  // June 1, 2026
+  const milestone2 = new Date(2026, 5, 3);  // June 3, 2026
+  const endDate    = new Date(2026, 5, 7);  // June 7, 2026 (Sunday)
+
+  // Pre-milestone special dates
+  const preStrong = new Date(2026, 4, 30);  // May 30
+  const preSoft1  = new Date(2026, 4, 28);  // May 28
+  const preSoft2  = new Date(2026, 4, 29);  // May 29
+
+  // If after June 3, render blank
+  if (today > milestone2) {
+    return;
+  }
+
+  const sameDay = (a, b) =>
+    a.getFullYear() === b.getFullYear() &&
+    a.getMonth() === b.getMonth() &&
+    a.getDate() === b.getDate();
+
+  // Countdown: days from today to June 1, excluding May 28, 29, 30
+  function computeCountdown() {
+    if (today >= milestone1) return 0;
+    let count = 0;
+    const d = new Date(today);
+    while (d < milestone1) {
+      if (!sameDay(d, preStrong) && !sameDay(d, preSoft1) && !sameDay(d, preSoft2)) {
+        count++;
+      }
+      d.setDate(d.getDate() + 1);
+    }
+    return count;
+  }
+
+  // Calendar start: Monday of the week containing today
+  function mondayOf(date) {
+    const d = new Date(date);
+    const day = d.getDay(); // 0=Sun..6=Sat
+    const diff = (day === 0 ? -6 : 1 - day);
+    d.setDate(d.getDate() + diff);
+    return d;
+  }
+
+  // Calendar end: Sunday of the week containing endDate (June 7 is already Sun)
+  function sundayOf(date) {
+    const d = new Date(date);
+    const day = d.getDay();
+    const diff = (day === 0 ? 0 : 7 - day);
+    d.setDate(d.getDate() + diff);
+    return d;
+  }
+
+  const calStart = mondayOf(today);
+  const calEnd   = sundayOf(endDate);
+
+  // Flash element
+  const flash = document.createElement('div');
+  flash.className = 'flash';
+  document.body.appendChild(flash);
+  let flashTimer = null;
+
+  function fmtDate(d) {
+    const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+    return months[d.getMonth()] + ' ' + d.getDate();
+  }
+
+  function showFlash(date) {
+    const diff = Math.round((milestone1 - date) / MS_PER_DAY);
+    let msg;
+    if (diff === 0) {
+      msg = '🎯 ' + fmtDate(date) + ' is the milestone!';
+    } else if (diff > 0) {
+      msg = fmtDate(date) + ' → ' + diff + ' day' + (diff === 1 ? '' : 's') + ' to June 1';
+    } else {
+      const a = Math.abs(diff);
+      msg = fmtDate(date) + ' → ' + a + ' day' + (a === 1 ? '' : 's') + ' after June 1';
+    }
+    flash.textContent = msg;
+    flash.classList.remove('show');
+    void flash.offsetWidth; // restart animation
+    flash.classList.add('show');
+    clearTimeout(flashTimer);
+    flashTimer = setTimeout(() => flash.classList.remove('show'), 1700);
+  }
+
+  // --- Render countdown ---
+  const countdown = computeCountdown();
+  const cdDiv = document.createElement('div');
+  cdDiv.className = 'countdown';
+  cdDiv.innerHTML =
+    '<span class="num">' + countdown + '</span>' +
+    '<span class="label">' +
+      (countdown === 1 ? 'day' : 'days') +
+      ' until June 1, 2026' +
+    '</span>';
+  root.appendChild(cdDiv);
+
+  // --- Render calendar ---
+  const cal = document.createElement('div');
+  cal.className = 'calendar';
+
+  const dows = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'];
+  const monthNames = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+
+  dows.forEach(name => {
+    const h = document.createElement('div');
+    h.className = 'dow';
+    h.textContent = name;
+    cal.appendChild(h);
+  });
+
+  const cur = new Date(calStart);
+  while (cur <= calEnd) {
+    const cell = document.createElement('div');
+    cell.className = 'day';
+
+    const dow = cur.getDay();
+    if (dow === 0 || dow === 6) cell.classList.add('weekend');
+
+    if (sameDay(cur, milestone1) || sameDay(cur, milestone2)) {
+      cell.classList.add('milestone');
+    } else if (sameDay(cur, preStrong)) {
+      cell.classList.add('pre-strong');
+    } else if (sameDay(cur, preSoft1) || sameDay(cur, preSoft2)) {
+      cell.classList.add('pre-soft');
+    }
+
+    if (cur < today) cell.classList.add('past');
+    if (sameDay(cur, today)) cell.classList.add('today');
+
+    const cellDate = new Date(cur);
+    cell.addEventListener('click', () => showFlash(cellDate));
+
+    const num = document.createElement('span');
+    num.className = 'num';
+    num.textContent = cur.getDate();
+    cell.appendChild(num);
+
+    if (cur.getDate() === 1 || sameDay(cur, calStart)) {
+      const mon = document.createElement('span');
+      mon.className = 'mon';
+      mon.textContent = monthNames[cur.getMonth()];
+      cell.appendChild(mon);
+    }
+
+    cal.appendChild(cell);
+    cur.setDate(cur.getDate() + 1);
+  }
+
+  root.appendChild(cal);
+})();
+</script>
+</body>
+</html>
