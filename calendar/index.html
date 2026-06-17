@@ -100,6 +100,20 @@
     font-size: clamp(0.95rem, 3.2vw, 1.25rem);
   }
 
+  .day .dtu {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -40%);
+    font-size: clamp(1.3rem, 4.5vw, 1.9rem);
+    font-weight: 800;
+    opacity: 0.18;
+    pointer-events: none;
+    line-height: 1;
+  }
+  .day.milestone .dtu { opacity: 0.55; }
+  .day.today .dtu { opacity: 0.28; }
+
   .day .mon {
     font-size: clamp(0.6rem, 1.8vw, 0.75rem);
     color: var(--muted);
@@ -177,14 +191,14 @@
   const today = new Date();
   today.setHours(0, 0, 0, 0);
 
-  const milestone1 = new Date(2026, 5, 1);  // June 1, 2026
-  const milestone2 = new Date(2026, 5, 3);  // June 3, 2026
-  const endDate    = new Date(2026, 5, 7);  // June 7, 2026 (Sunday)
+  const milestone1 = new Date(2026, 5, 26);  // June 26, 2026
+  const milestone2 = new Date(2026, 5, 26);  // same as milestone1
+  const endDate    = new Date(2026, 5, 26);  // June 26, 2026 — calendar ends this week
 
   // Pre-milestone special dates
-  const preStrong = new Date(2026, 4, 30);  // May 30
-  const preSoft1  = new Date(2026, 4, 28);  // May 28
-  const preSoft2  = new Date(2026, 4, 29);  // May 29
+  const preStrong = new Date(2026, 6, 30);  // May 30
+  const preSoft1  = new Date(2026, 6, 28);  // May 28
+  const preSoft2  = new Date(2026, 6, 29);  // May 29
 
   // If after June 3, render blank
   if (today > milestone2) {
@@ -248,10 +262,10 @@
     if (diff === 0) {
       msg = '🎯 ' + fmtDate(date) + ' is the milestone!';
     } else if (diff > 0) {
-      msg = fmtDate(date) + ' → ' + diff + ' day' + (diff === 1 ? '' : 's') + ' to June 1';
+      msg = fmtDate(date) + ' → ' + diff + ' day' + (diff === 1 ? '' : 's') + ' to Jun 26';
     } else {
       const a = Math.abs(diff);
-      msg = fmtDate(date) + ' → ' + a + ' day' + (a === 1 ? '' : 's') + ' after June 1';
+      msg = fmtDate(date) + ' → ' + a + ' day' + (a === 1 ? '' : 's') + ' after Jun 26';
     }
     flash.textContent = msg;
     flash.classList.remove('show');
@@ -269,7 +283,7 @@
     '<span class="num">' + countdown + '</span>' +
     '<span class="label">' +
       (countdown === 1 ? 'day' : 'days') +
-      ' until June 1, 2026' +
+      ' until June 26, 2026' +
     '</span>';
   root.appendChild(cdDiv);
 
@@ -313,6 +327,14 @@
     num.className = 'num';
     num.textContent = cur.getDate();
     cell.appendChild(num);
+
+    if (cellDate >= today && cellDate <= milestone1) {
+      const daysLeft = Math.round((milestone1 - cellDate) / MS_PER_DAY);
+      const dtu = document.createElement('span');
+      dtu.className = 'dtu';
+      dtu.textContent = daysLeft;
+      cell.appendChild(dtu);
+    }
 
     if (cur.getDate() === 1 || sameDay(cur, calStart)) {
       const mon = document.createElement('span');
